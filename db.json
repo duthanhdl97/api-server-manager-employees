@@ -1,0 +1,1614 @@
+{
+  "city": [
+    {
+      "id": 1,
+      "title": "TP. Hồ Chí Minh",
+      "imgUrl": "https://i.imgur.com/OfFgd9r.png",
+      "path": "ho-chi-minh",
+      "num": 3507
+    },
+    {
+      "id": 2,
+      "title": "Vũng Tàu",
+      "imgUrl": "https://i.imgur.com/X3piiPE.png",
+      "path": "vung-tau",
+      "num": 795
+    },
+    {
+      "id": 3,
+      "title": "Đà Nẵng",
+      "imgUrl": "https://i.imgur.com/xRs0RFD.png",
+      "path": "da-nang",
+      "num": 1699
+    },
+    {
+      "id": 4,
+      "title": "Đà Lạt",
+      "imgUrl": "https://i.imgur.com/8vCkfri.png",
+      "path": "da-lat",
+      "num": 2155
+    },
+    {
+      "id": 5,
+      "title": "Hà Nội",
+      "imgUrl": "https://i.imgur.com/HVNFMTr.png",
+      "path": "ha-noi",
+      "num": 3315
+    },
+    {
+      "id": 6,
+      "title": "Nha Trang",
+      "imgUrl": "https://i.imgur.com/aOZJyDW.png",
+      "path": "nha-trang",
+      "num": 968
+    },
+    {
+      "id": 7,
+      "title": "Quảng Ninh",
+      "imgUrl": "https://i.imgur.com/QrghHg2.png",
+      "path": "quang-ninh",
+      "num": 367
+    },
+    {
+      "id": 8,
+      "title": "Hội An",
+      "imgUrl": "https://i.imgur.com/H14EVXh.png",
+      "path": "hoi-an",
+      "num": 474
+    }
+  ],
+  "rooms": [
+    {
+      "id": 100,
+      "rating": 5,
+      "roomType": "Phòng riêng",
+      "review_count": 3,
+      "category": "CĂN HỘ DỊCH VỤ",
+      "name": "Saigon Paramount* Service Apartment* Spacious Studio* Fully Furnished",
+      "address": "Quận 1, Hồ Chí Minh, Vietnam",
+      "area": 30,
+      "guests": 2,
+      "maximum_guests": 3,
+      "size": "3 khách · 1 phòng ngủ · 1 phòng tắm",
+      "detail": "<p>Với diện tích hơn 30 m2, căn hộ studio của Saigon Paramount được thiết kế cửa sổ kính lớn mang đến không gian thoáng mát và đầy ánh nắng, phòng tắm riêng với thiết kế tinh tế, bếp với đầy đủ tiện nghi và các thiết bị hiện đại. Đây là một nơi tuyệt vời để thư giãn sau một ngày dài cũng như là một lựa chọn hợp lý cho bất kỳ ai khi đến du lịch hay làm việc tại Thành Phố Hồ Chí Minh.</p><br/><p></p><p>Saigon Paramount nằm ở vị trí trung tâm Sài gòn, ngay Nhà thờ Tân Định, Công viên Lê Văn Tám. Chỉ mất từ 3 – 5 phút đi bằng xe motorbike, bạn đã đến được các địa điểm nổi tiếng như: Dinh Độc Lập, Nhà Thờ Đức Bà, Phố Đi Bộ Bùi Viện, Chợ Bến Thành, Bảo tàng lịch sử Việt Nam, Landmark81 và chỉ mất khoảng 12 phút để đến Sân bay Tân Sơn Nhất.</p><br/><p></p><p><strong>DỊCH VỤ:</strong></p><br/><p>Lễ tân 24/24</p><br/><p>An ninh, Camera giám sát 24/24</p><br/><p>Wifi miễn phí. Đặc biệt hệ thống wifi của chúng tôi luôn đảm bảo tốc độ cao cho các khách hàng làm việc và giải trí</p><br/><p>Bãi đậu xe máy miễn phí</p><br/><p>Dịch vụ dọn phòng hằng ngày</p><br/><p>Dịch vụ giặt miễn phí cho khách lưu trú từ &gt; 4 ngày</p><br/><p>Hỗ trợ khách thuê xe ô tô, xe máy, hướng dẫn khách tham quan các địa điểm du lịch nổi tiếng</p><br/><p></p><p><strong>TIỆN NGHI:</strong></p><br/><p>Smart TV</p><br/><p>Bàn làm việc</p><br/><p>Sofa</p><br/><p>Bàn ủi</p><br/><p>Máy sấy tóc</p><br/><p>Két an toàn</p><br/><p>Tủ quần áo rộng</p><br/><p>Tủ lạnh, Lò vi sóng …</p><br/><p></p><p><strong>TIỆN ÍCH XUNG QUANH:</strong></p><br/><p>Trong vòng bán kính 500m, có đầy đủ các Ngân hàng, Nhà hàng, Quán Cafe, Rạp chiếu phim, Công viên, Các địa điểm đổi ngoại tệ...</p>",
+      "rule": "<p>Thời gian check in: 14h - 24h</p><p>Thời gian check out: Trước 12h trưa</p><p>Không hút thuốc</p><p>Không mang vật nuôi</p><p>Không sử dụng các chất kích thích</p><p>Không mở nhạc quá 11 PM (23: 00)</p><p>Không mở tiệc trong phòng</p><p>Vui lòng tắt các thiết bị khi bạn ra khỏi phòng</p>",
+      "price": 433000,
+      "additional_guests": 300000,
+      "weekend_price": 586000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/5d09w6d.jpg",
+      "cityId": 1
+    },
+    {
+      "id": 101,
+      "rating": 5,
+      "roomType": "Nguyên căn",
+      "review_count": 4,
+      "category": "CĂN HỘ CHUNG CƯ",
+      "name": "Sky Center - Tan Son Nhat Airport Homestay",
+      "address": "Tân Bình, Hồ Chí Minh, Vietnam",
+      "area": 36,
+      "guests": 2,
+      "maximum_guests": 3,
+      "size": "3 khách · 1 phòng ngủ · 1 phòng tắm",
+      "detail": "<p>- Nằm ngay trục đường từ sân bay Tân Sơn Nhất di chuyển và khu nội thành thành phố, cách sân bay chưa đầy 1km</p><br/><p>- Đây là vị trí thuận lợi cho những khách hàng sử dụng phương tiện di chuyển hàng không</p><br/><p>- Tòa nhà Sky Center có <strong>hồ bơi sử dụng miễn phí quanh năm</strong>, có công viên cây xanh, có siêu thị Vinsmart ở tầng trệt cùng với hàng trăm nhà hàng, shophouse, quán cà phê, hiệu thuốc tây...Đảm bảo cho mọi nhu cầu mua sắm và ẩm thực của bạn</p><br/><p>- Ngoài ra tại Sky Center, lực lượng an ninh hoạt động 24/7, lễ tân và dịch vụ vệ sinh hoạt động cả ngày, đáp ứng được những nhu cầu phát sinh từ khách hàng.</p><br/><p>- Trong chỗ ở của chúng tôi có trang bị tủ lạnh, máy giặt, tivi màn hình phẳng, máy điều hòa nhiệt độ, máy nước nóng, tủ quần áo có khóa, bếp nấu cùng phụ kiện nhà bếp, có nồi cơm, ấm đun nước, máy sấy tóc.....</p><br/><p>- Ngoài ra chúng tôi còn cung cấp mì gói, cà phê,<strong> nước lọc miễn phí</strong> cho khách hàng</p><br/><p>- Đối với những khách lưu trú dài ngày, chúng tôi cung cấp dịch vụ <strong>vệ sinh phòng miễn phí 2 lần/tuần</strong> và những dịch vụ khách theo thỏa thuận của khách hàng</p>",
+      "rule": "<p>Những lưu ý khi đặt phòng:</p><p>- Check in: từ 2pm đến 22pm</p><p>- Check out: trước 12am</p><p>- Vui lòng không gây ồn ào sau 10PM</p><p>- Mỗi tầng đều có phòng chứa rác ở ngay cạnh thang máy. Quý khách vui lòng bỏ rác đúng nơi quy định.</p><p>- Không hút thuốc trong phòng ( tòa nhà có khu vực hút thuốc riêng)</p><p>- Không nuôi động vật trong phòng</p><p>- Không sử dụng ma túy, cờ bạc trong phòng</p><p>- Đường dây hotline của chúng tôi hoạt động 24/24 để hỗ trợ bạn, vui lòng gọi cho chúng tôi khi bạn hỗ trợ</p>",
+      "price": 650000,
+      "additional_guests": 300000,
+      "weekend_price": 650000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/3wZzOYI.jpg",
+      "cityId": 1
+    },
+    {
+      "id": 102,
+      "rating": 5,
+      "roomType": "Phòng riêng",
+      "review_count": 1,
+      "category": "CĂN HỘ STUDIO",
+      "name": "BV601 - A Glaring Rustic Loft in Bui Vien",
+      "address": "Quận 1, Hồ Chí Minh, Vietnam",
+      "area": 23,
+      "guests": 2,
+      "maximum_guests": 2,
+      "size": "2 khách · 1 phòng ngủ · 1 phòng tắm",
+      "detail": "<p>- Một căn hộ ở HoLo Bui Vien Saigon - một thành viên của HoLo Fairy Houses Serviced HomeStay Chain</p><br/><p>- Có nhiều phòng để các đoàn có thể đặt các phòng khác để ở cùng nhau.</p><br/><p>- Gần chợ Bến Thành, khu Phạm Ngũ Lão &amp; Bùi Viện</p><br/><p>- Phòng được thiết kế theo phong cách mới và mộc mạc</p><br/><p>- Phòng tắm riêng</p><br/><p>Chúng tôi dành tất cả những gì tuyệt vời nhất cho căn hộ xinh đẹp này để chờ đến ngày được chào đón bạn. Thiết kế chủ đạo với tông màu trắng-vàng khiến cho ngôi nhà thật hiện đại, sang trọng nhưng cũng không kém phần ấm cúng mang đến cho bạn cảm giác như đang ở trong chính ngôi nhà của mình vậy.</p><br/><p>Bên cạnh đó, tôi cũng là một người bản địa <span>vô cùng thân thiện và thoải mái. Chính vì vậy đừng ngại ngần mà chia sẻ với chúng tôi những điều bạn đang thắc mắc hoặc những khó khăn bạn gặp phải khi ở đây. </span></p><br/><p><span>Chúng tôi cũng luôn mong muốn được cùng bạn khám phá nhiều địa điểm tốt đẹp nhất tại đây. </span></p>",
+      "rule": "<p>Check in: 14h00, Check out: 12h00</p><p>Không hút thuốc trong phòng ngủ</p><p>Không sử dụng chất kích thích</p><p>Không mở tiệc trong căn hộ</p><p>Vui lòng tắt các thiết bị khi bạn ra khỏi phòng</p>",
+      "price": 495000,
+      "additional_guests": 200000,
+      "weekend_price": 990000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/sLygN4x.jpg",
+      "cityId": 1
+    },
+    {
+      "id": 103,
+      "rating": 5,
+      "roomType": "Nguyên căn",
+      "review_count": 5,
+      "category": "CĂN HỘ CHUNG CƯ · SKY CENTER",
+      "name": "Jolie Home 2❤️Sky Center private Apt?free pool❤️5' to Airport",
+      "address": "Tân Bình, Hồ Chí Minh, Vietnam",
+      "area": 35,
+      "guests": 2,
+      "maximum_guests": 2,
+      "size": "2 khách · 1 phòng ngủ · 1 phòng tắm",
+      "detail": "<p>Vị trí đẹp, thuận tiện đi vào trung tâm cũng như tới sân bay TSN. Có hồ bơi miễn phí.</p><br/><p>Siêu thị, cafe, sân chơi cho trẻ ngay trong toà nhà. Khu vực xung quanh nhiều nhà hàng, trung tâm mua sắm, rạp chiếu phim khu vui chơi.</p><br/><p>Khách có thể tự check in.</p><br/><p>Trong phòng đều có balcon, máy giặt, bàn ủi, ti vi, tủ lạnh.</p><br/><p>Các tiện ích như nước, bia, trà, cafe, mì gói trong phòng đều miễn phí với đầy đủ thiết bị làm bếp (bình nước nóng, lò vi sóng, bếp từ, dao, chén bát..vv) để khách sử dụng.</p><br/><p>Chủ nhà ở cách đó tầm 05' đi xe. Luôn sẵn sàng có mặt khi khách có yêu cầu.</p>",
+      "rule": "<p>Không hút thuốc trong phòng.</p><p>Không sử dụng các chất kích thích, văn hoá phẩm đồi truỵ.</p><p>Không mang theo vật nuôi.</p><p>Không tổ chức tiệc.</p><p>Vui lòng giữ im lặng sau 22h đêm.</p>",
+      "price": 585000,
+      "additional_guests": 80000,
+      "weekend_price": 720000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/bkEJ84n.jpg",
+      "cityId": 1
+    },
+    {
+      "id": 104,
+      "rating": 5,
+      "roomType": "Phòng riêng",
+      "review_count": 3,
+      "category": "CĂN HỘ DỊCH VỤ",
+      "name": "SKY 01 llCư Xá Đô Thành_Garden view_Shared bathroom ❤️Hello Saigon Homestay",
+      "address": "Quận 3, Hồ Chí Minh, Vietnam",
+      "area": 19,
+      "guests": 2,
+      "maximum_guests": 2,
+      "size": "2 khách · 1 phòng ngủ · 1 phòng tắm",
+      "detail": "<p>Hmmm,</p><br/><p><em>Vị trí thuận lợi</em></p><br/><p><em>Sạch sẽ</em></p><br/><p><em>Thoáng gió, gần gũi thiên nhiên </em></p><br/><p><em>Phòng rộng rãi, tiện nghi </em></p><br/><p><em>Nhân viên thân thiện, nhiệt tình</em></p><br/><p><em>Nếu bạn đang tìm kiếm 1 homestay như vậy, thì đừng bỏ lỡ </em><strong>Hello Saigon Homestay</strong> cho chuyến đi sắp đến nhé</p><br/><p>✯ <strong>Nằm ở vị trí trung tâm </strong>quận 3 – là nơi cực thuận tiện để di chuyển ra tất cả các quận của thành phố. Rẽ trái, phải, ngang, dọc là bạn đã đến được Quận 1, 11, 10, 5… chỉ trong vòng vài phút chạy xe. Nếu bạn thích vận động, thì có thể đi bộ đến các địa điểm tham quan du lịch chính của HCM (Chợ Bến Thành Bùi Viện, Nhà thờ Đức Bà ….) cách đó 2km.</p><br/><p>Điểm cộng cho vị trí, là homestay nằm cạnh siêu thị Aeon Citimart và Ministop, Chợ Vườn Chuối, Bàn Cờ, Con đường ẩm thực Cao Thắng, Bệnh viện Bình Dân, Từ Dũ , Spa…Chỉ cần bước ra khỏi homestay, là mình không cần phải loay hoay tìm kiếm gi nữa. À, nếu bạn đang lo ngại về sự yên tĩnh, thì mình yên tâm nhé, hứa hẹn là bạn sẽ có giấc ngủ ngon và không bị làm phiền vì tiếng ồn.</p><p><br></p><p>✯ <strong>Không gian Phòng </strong>Xanh, sạch, thoáng, tươi mát là điều bạn sẽ ấn tượng khi đến nhà Hello Saigon. Căn phòng đầy đủ tiện nghi, với bố trí dung dị nhưng nhẹ nhàng và hiện đại, tạo không gian rộng rãi, gần gũi với thiên nhiên, ánh sáng và gió trời.</p><br/><p><strong>Giường ngủ 1m6</strong> – với nệm, drap, mền loại dịu nhẹ cho da, mát lạnh.</p><br/><p><strong>Bàn làm việc</strong> với kiểu dáng và kích thước phù hợp cho các bạn cho nhu cầu làm việc với laptop</p><br/><p><strong>Máy sấy tóc, gương trang điểm, đèn ngủ</strong></p><br/><p><strong>Phòng tắm</strong> <strong>chung</strong> rộng, thoáng, sạch với bồn rửa, vòi hoa sen, các đồ dùng phòng tắm như: khăn, bàn chảy đánh răng, sữa tắm, dầu gội, nước rửa tay.</p><br/><p>Tủ quần áo nhiều ngăn để bạn sắp xếp đồ thoải mái nếu ở dài hạn, tủ lạnh mini có sẵn trong phòng.</p><br/><p>Cửa sổ lớn giúp căn phòng tràn ngập ánh sáng</p><p><br></p><p><strong>Không Gian Chung</strong></p><br/><p><em>1.Sân thượng – Vườn rau: </em>Có để sẵn bàn, ghế cao để các bạn có thể trò chuyện và ngắm nhìn thành phố từ trên cao, ngắm hoàng hôn. BBQ, Caffe, Tỏ tình với crush .. cũng là những ý tưởng rất hay để thực hiện ở đây hihi. Nhà mình có trồng rau organic, bạn có thể hái và tự tay làm cho mình một tô mì siu ngon đấy</p><br/><p><em>2.Khu trà : </em>nằm phía dưới của sân thượng, khu này dù mưa hay nắng thì cũng không ảnh hưởng gì. Bạn có thể quay quần tại đây, uống trà hoặc ăn uống cùng nhau dưới thiên nhiên.</p><br/><p><em>3.Bếp: </em>bếp nhà mình rất đầy đủ tiện nghi, có lò vi sóng, bếp điện từ, chén dĩa đũa, ly tách …. tủ lạnh lớn, bàn ăn. Nếu bạn muốn trổ tài để chuẩn bị bữa ăn thì cứ tự nhiên dùng bếp nhé</p><br/><p><em>4.Sảnh khách: </em>Ghế sofa dài cạnh hồ cá - đón gió cũng là nơi rất là lý tưởng để chụp vài tấm lưu dấu tại homestay.</p><p><br></p><p><br></p><p><em>Thôi ! còn suy nghĩ gì nữa hè ! Về đội bọn mình nhé !</em></p><br/><p><em>Tìm gì nữa ? Nhà là đây chứ đâu ! ❤️</em></p>",
+      "rule": "<p>Không hút thuốc</p><p>Không sử dụng các chất kích thích, văn hoá phẩm đồi truỵ</p><p>Không mang theo vật nuôi</p><p>Không tổ chức tiệc.</p><p>Vui lònhg giữ im lặng sau 22h đêm</p><p>Vui lòng tắt điện khi bạn rời khỏi căn hộ</p><p>Phòng toilet chung - giữ vệ sinh chung</p>",
+      "price": 369000,
+      "additional_guests": 0,
+      "weekend_price": 410000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/rWb1gri.jpg",
+      "cityId": 1
+    },
+    {
+      "id": 200,
+      "rating": 4.9,
+      "roomType": "Phòng riêng",
+      "review_count": 18,
+      "category": "CĂN HỘ DỊCH VỤ",
+      "name": "The Avis Apartment - Attic Double 401",
+      "address": "Vũng Tàu, Bà Rịa Vũng Tàu, Vietnam",
+      "area": 15,
+      "guests": 2,
+      "maximum_guests": 2,
+      "size": "2 khách · 1 phòng ngủ · 1 phòng tắm",
+      "detail": "<p>- <strong>The Avis Apartment</strong> có diện tích 15m2 với thiết kế hiện đại, nội thất gỗ và hệ thống cây xanh trong nhà</p><br/><p>-<strong> Nằm ở khu trung tâm</strong>, dễ dàng di chuyển đến các điểm tham quan nổi tiếng trong thành phố</p><br/><p>- Nơi đây cung cấp cho bạn đầy đủ những tiện nghi hiện đại, thoải mái</p><br/><p><span>Nằm trong bán kính 2,3 km từ Tượng Chúa Ki-tô Vua và 2,5 km từ Mũi Nghinh Phong. Chỗ ở của chúng tôi có khu vườn, sân hiên cũng như Wi-Fi miễn phí. Chỗ ở của chúng tôi nằm cách Bạch Dinh 3,8 km và Ngọn hải đăng Vũng Tàu 5 km. Sân bay Quốc tế Tân Sơn Nhất cách đó 107 km.</span></p><br/><p>Bạn gặp vấn đề ở đâu? Về chỗ ởcủa chúng tôi, về các vật dụng trong nhà hay bất cứ vấn đề gì bạn cũng có thể liên lạc trực tiếp với chúng tôi. Chúng tôi rất sẵn lòng để giúp đỡ bạn.</p><br/><p>Chúng tôi cũng có thể giúp bạn thuê xe đạp hoặc chia sẻ với bạn những địa điểm ăn uống và mua sắm tốt ở địa phương với mức giá hợp lý. Hãy hỏi tôi bất cứ điều gì đang thắc mắc nhé!</p>",
+      "rule": "<p>- Không hút thuốc, không sử dụng các chất kích thích</p><p>- Không mang theo vật nuôi</p><p>- Không tổ chức tiệc</p>",
+      "price": 450000,
+      "additional_guests": 200000,
+      "weekend_price": 700000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/PAhW4Fb.jpg",
+      "cityId": 2
+    },
+    {
+      "id": 201,
+      "rating": 4.8,
+      "roomType": "Nguyên căn",
+      "review_count": 6,
+      "category": "CĂN HỘ CHUNG CƯ · BLUE SAPPHIRE RESORT VŨNG TÀU",
+      "name": "[601]Aria Vung Tau - Free hồ bơi sát biển",
+      "address": "Vũng Tàu, Bà Rịa Vũng Tàu, Vietnam",
+      "area": 150,
+      "guests": 8,
+      "maximum_guests": 10,
+      "size": "10 khách · 3 phòng ngủ · 3 phòng tắm",
+      "detail": "<p></p><p>✔️ Căn hộ tọa lạc trên tầng cao với 2 ban công và phòng ngủ bao trọn view biển, quý khách có thể đọc sách, uống trà hoặc thư giãn nghe nhạc tại đây.</p><br/><p>✔️ Bãi biển nằm trong khuôn viên của tòa nhà, hồ bơi sát biển miễn phí cho toàn bộ du khách nghỉ tại căn hộ.</p><br/><p>✔️ Căn hộ cung cấp cho quý khách đầy đủ những tiện nghi hiện đại như lò nướng, lò vi sóng, đồ bếp, máy giặt và cả bếp nướng than để làm BBQ</p><br/><p>✔️Tầng hầm rộng - phù hợp với tất cả các phương tiện từ xe máy tới xe ô tô lớn.</p><br/><p>✔️Cách trung tâm 4km, chính vì vậy quý khách có thể tận hưởng một kỳ nghỉ hoàn toàn yên tĩnh, tránh xa mọi bụi bặm ồn ào của thành phố.</p><br/><p>✔️Cách bãi biển chỉ vài bước chân, có thể nói Aria Vung Tau là một trong những nơi gần biển nhất thành phố Vũng Tàu.</p><br/><p>Chúng tôi rất sẵn lòng tư vẫn quý khách các điểm tham quan, khu vui chơi ăn uống của Vũng Tàu.</p>",
+      "rule": "<ul><li>Không gây ồn ào sau 10h tối.</li><li>Không mang theo vật nuôi đến căn hộ</li><li>Không sử dụng chất kích thích trong suốt thời gian lưu trú tại căn hộ</li></ul>",
+      "price": 3000000,
+      "additional_guests": 150000,
+      "weekend_price": 4100000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/RTiQwB7.jpg",
+      "cityId": 2
+    },
+    {
+      "id": 300,
+      "rating": 5,
+      "roomType": "Phòng riêng",
+      "review_count": 2,
+      "category": "CĂN HỘ CHUNG CƯ",
+      "name": "AnNam Villa - Anamur - 1 bedroom",
+      "address": "Sơn Trà, Đà Nẵng, Vietnam",
+      "area": 60,
+      "guests": 2,
+      "maximum_guests": 2,
+      "size": "2 khách · 1 phòng ngủ · 1 phòng tắm",
+      "detail": "<p>Cung cấp chỗ ở chất lượng trong gia đình vui vẻ, bãi biển, quận ngắm cảnh Đà Nẵng. <strong>An Nam Villa Đà Nẵng</strong> là một lựa chọn phổ biến cho cả khách doanh nhân và khách du lịch.</p><br/><p>Biệt thự của chúng tôi có 5 căn hộ cao cấp. Bạn chỉ cần đi bộ khoảng 150m đến bãi biển nổi tiếng của Đà Nẵng. Chỉ cách 5,4 km có thể dễ dàng di chuyển đến sân bay.</p><br/><p>Với vị trí thuận tiện, từ chỗ ở của chúng tôi bạn <strong>dễ dàng đến các điểm đến nổi tiếng </strong>của thành phố. <strong>An Nam Villa - Anamur </strong>có diện tích 60m2. Với 1 phòng ngủ và 1 phòng tắm. Đầy đủ trang thiết bị tiện nghi, hiện đại để bạn được nghi ngơi thật thoải mái.</p>",
+      "rule": "<p>- Không cho phép vật nuôi</p><p>- Không hút thuốc lá trong phòng, có khu vực riêng để hút thuốc</p>",
+      "price": 1200000,
+      "additional_guests": 300000,
+      "weekend_price": 1200000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/8Sz5m61.jpg",
+      "cityId": 3
+    },
+    {
+      "id": 301,
+      "rating": 4.6,
+      "roomType": "Nguyên căn",
+      "review_count": 10,
+      "category": "CĂN HỘ CHUNG CƯ",
+      "name": "CITY CENTRE 03 BEDROOMS APARTMENT",
+      "address": "Thanh Khê, Đà Nẵng, Vietnam",
+      "area": 110,
+      "guests": 6,
+      "maximum_guests": 9,
+      "size": "9 khách · 3 phòng ngủ · 2 phòng tắm",
+      "detail": "<p>- Chỗ ở của chúng tôi với 3 phòng ngủ được thiết kế theo kiến trúc châu Âu nhất định sẽ khiến bạn hài lòng ngay từ lần đầu đặt chân đến đây</p><br/><p>- Nơi đây cung cấp cho bạn đầy đủ nhất về sự tiên nghi, xinh xắn và hiện đại theo tiểu chuẩn châu Âu</p><br/><p>- Chúng tôi sẽ sẵn sàng hỗ trợ bạn trong suốt quá trình bạn lưu trú tại đây.</p><br/><p><strong>CITY CENTRE 03 BEDROOMS APARTMENT</strong> tọa lạc tại con đường trung tâm . Không những thế, chỗ ở của chúng tôi còn nằm trên tầng cao của tòa nhà chung cư.Từ đây bạn có thể thư giãn và<strong> thu vào tầm mắt không gian toàn bộ thành phố Đà Nẵng xinh đẹp</strong>.</p><br/><p>Không gian nghỉ ngơi tiện nghi và sang trọng như khách sạn 5 sao. Đủ sự riêng tư và thoải mái giống như ở tại nhà, cho bạn những giờ phút nghỉ ngơi hoàn hảo.</p><br/><p><span>Từ phòng khách hay phòng ngủ tại chỗ ở của chúng tôi, bạn đều có thể dễ dàng phóng tầm mắt, ngắm nhìn thành phố Đà Nẵng nhộn nhịp, xa hoa. Tư duy thiết kế mở, hiện đại và lịch lãm, đồ nội thất tối giản mà vẫn sang trọng và có gu riêng. Thêm vào đó, việc thừa hưởng các tiện ích cao cấp sẵn có của tòa nhà cũng là một điểm cộng lớn khi bạn lưu trú tại đây</span><span>.</span></p>",
+      "rule": "<p>- Không mang theo chất kích thích hoặc hút thuốc lá trong CORNER CONDO</p><p>- Không check in muộn</p><p>- Không mang theo vật nuôi</p><p>- Xin đừng làm bất cứ điều gì bất hợp pháp, bán / mua / sử dụng những thứ bị cấm</p><p>- Không đi giầy trong nhà</p><p>- Không tổ chức tiệc tùng</p><p>- Vui lòng trả lại thẻ khóa trước khi trả phòng.</p>",
+      "price": 1420000,
+      "additional_guests": 200000,
+      "weekend_price": 1420000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/fC4lyDw.jpg",
+      "cityId": 3
+    },
+    {
+      "id": 302,
+      "rating": 5,
+      "roomType": "Nguyên căn",
+      "review_count": 3,
+      "category": "CĂN HỘ CHUNG CƯ",
+      "name": "Mường Thanh Luxury Apartment with Mỹ Khê beach View",
+      "address": "Ngũ Hành Sơn, Đà Nẵng, Vietnam",
+      "area": 59,
+      "guests": 5,
+      "maximum_guests": 5,
+      "size": "5 khách · 2 phòng ngủ · 2 phòng tắm",
+      "detail": "<p><strong>Cảm ơn quý khách đã ghé thăm căn hộ của tôi, sau đây tôi sẽ giới thiệu căn hộ của mình:</strong></p><br/><ul><li>Đây là căn hộ cao cấp của chung cư Mường Thanh, là nơi nghỉ ngơi lý tưởng cho khách du lịch đến bãi biển Mỹ Khê, thành phố Đà Nẵng.</li><br/><li>Căn hộ nằm trên tầng 28 của tòa nhà, có ban công nhìn ra biển bãi Mỹ Khê xinh đẹp và Cầu Rồng. Nó bao gồm 2 phòng ngủ, 2 phòng tắm, 1 phòng khách, 1 bếp, 1 ban công và khu vực giặt ủi. Căn hộ này có thể chứa từ 4 đến 6 người, nhưng nếu nhóm của bạn có hơn 6 người, bạn vẫn được chào đón, thêm gối, chăn và nệm luôn có sẵn.</li><br/><li>Căn hộ nằm ở một vị trí hoàn hảo, chỉ cách bãi biển vài bước chân, mang đến cho bạn một khung cảnh tuyệt đẹp và ngoạn mục mỗi sáng khi bạn thức dậy. Căn hộ được thiết kế theo phong cách hiện đại và nội thất đầy đủ, nội thất cao cấp:</li><br/><li>Phòng khách rộng rãi và được trang bị điều hòa, ghế sofa thoải mái, TV thông minh.</li><br/><li>Nhà bếp của chúng tôi được trang bị tủ lạnh, lò vi sóng, bếp, ấm đun nước điện, nồi và chảo cũng như dụng cụ nấu ăn và bộ đồ ăn mang đến cho bạn sự thoải mái khi dùng bữa tại đây tạo cảm giác như đang ở nhà của bạn</li><br/><li>Phòng ngủ nhìn ra biển bao gồm giường cỡ queen, máy điều hòa.</li><br/><li>Phòng tắm cung cấp tất cả những thứ thiết yếu: khăn tắm, sữa tắm, dầu gội, bàn chải đánh răng, kem đánh răng, dao cạo râu, v.v.</li><br/><li>Máy giặt có sẵn và dễ sử dụng. Chúng tôi cũng cung cấp cho bạn chất tẩy rửa và giá phơi.</li><br/><li>Bàn ăn cho bốn người</li><br/><li>Bạn không cần phải lo lắng về sự an toàn ở đây vì tòa nhà này có an ninh tốt. Nhân viên bảo vệ làm việc 24h và cần có thẻ từ để sử dụng thang máy.</li><br/><li>Căn hộ của tôi là một nơi thân thiện với vật nuôi. Thú cưng của bạn luôn được chào đón đến căn hộ của chúng tôi.</li><br/><li>Căn hộ nằm ở vị trí rất thuận tiện với nhiều tiện ích xung quanh như siêu thị mini, nhà hàng, quán cà phê, dịch vụ cho thuê xe hơi, cửa hàng giặt ủi, đặc biệt chỉ cần 1 phút bạn có thể đến bãi biển.</li></ul><br/><p><strong>Ẩn mình trong trung tâm sôi động của thành phố Đà Nẵng. Căn hộ đầy phong cách này nằm ở những vị trí hàng đầu:</strong></p><br/><ul><li>Chỉ 1 bước đi bộ đến Bãi biển Mỹ Khê xinh đẹp</li><br/><li>3 phút đến Cầu Rồng</li><br/><li>10 phút đến núi Ngũ Hành Sơn</li><br/><li>15 phút đến tượng Phật Quan Âm trên núi Sơn Trà</li><br/><li>15 phút từ sân bay.</li><br/><li>10 phút đến Công viên Châu Á</li><br/><li>25 phút đến phố cổ Hội An</li><br/><li>Bar / Quán cà phê / Siêu thị / Nhà hàng / Trung tâm mua sắm / Lưu niệm bao quanh</li></ul>",
+      "rule": "<p>Giờ check in thông thường 14h00, giờ check out là 12h00. Tuy nhiên tùy tình trạng phòng trống chúng tôi có thể cho khách in sớm hoặc out trễ. Nếu thời gian in sớm/out trễ &gt;3h chúng tôi có thể thu phụ phí</p><p>******<strong>Hãy coi căn hộ của tôi như nhà của bạn</strong>********</p><p>·Hãy tắt các thiết bị điện &amp; nước khi không sử dụng hoặc ra khỏi phòng</p><p>·Giữ vệ sinh căn hộ sạch sẽ</p><p>·Không ồn ào sau 10 giờ tối</p><p>·Không sử dụng các chất cấm và các hành vi vi phạm pháp luật khác</p><p>·Nếu bạn có các sự kiện / bữa tiệc, vui lòng thảo luận với tôi trước</p>",
+      "price": 861767,
+      "additional_guests": 143628,
+      "weekend_price": 1220836,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/c3y56qZ.jpg",
+      "cityId": 3
+    },
+    {
+      "id": 400,
+      "rating": 5,
+      "roomType": "Nguyên căn",
+      "review_count": 5,
+      "category": "CĂN HỘ CHUNG CƯ",
+      "name": "CĂN HỘ TẦNG BA",
+      "address": "Đà Lạt, Lâm Đồng, Vietnam",
+      "area": 50,
+      "guests": 4,
+      "maximum_guests": 6,
+      "size": "6 khách · 2 phòng ngủ · 1 phòng tắm",
+      "detail": "<p><strong>CĂN HỘ TẦNG BA</strong></p><br><p>Nhạc ve ngân vang, hoa phượng đỏ thắm, nắng vàng rực rỡ… Mùa hạ đã đến và mang theo cả cái nóng bức, oi nồng. Đà Lạt phải chăng là nơi để nghỉ ngơi, thư giãn, để hưởng thụ khí trời mát mẻ và cảnh sắc thơ mộng, trữ tình. Khi đến đây thì hãy đến homestay – CĂN HỘ TẦNG BA của chúng tôi, các bạn sẽ rất hài lòng trong thời gian lưu trú ở đây.</p><br><p><strong>* Vị trí</strong></p><br><p>CĂN HỘ TẦNG BA nằm ở trung tâm thành phố Đà Lạt, sát cạnh Trường Cao Đẳng Sư phạm Đà Lạt nên rất thuận lợi cho việc di chuyển, đi lại. Bạn chỉ mất khoảng 3 phút đi xe máy ra hồ Xuân Hương, gas Đà Lạt ngắm cảnh, check in và khoảng 7 phút đến khu mua sắm chợ Đà Lạt, khu Hòa Bình, .....</p><br><p><strong>* Thiết kế, trang trí, phòng ốc, tiện nghi</strong></p><br><p>CĂN HỘ TẦNG BA được thiết kế và trang trí theo phong cách Nhật bản, rất ấm áp và sang trọng. Các trang thiết bị và phòng ốc rất tiện nghi, hiện đại nhằm mang lại sự thoải mái cho du khách. Căn hộ của chúng tôi có phòng bếp đầy đủ tiện nghi phục vụ cho du khách về dịch vụ nghỉ ngơi với 2 PHÒNG NGỦ, có BẾP NẤU ĂN, có <strong>PHÒNG TRÀ PHONG CÁCH NHẬT</strong> cho du khách thư giãn, có smart TIVI , WIFI, có máy PLAYSTATION GAME BÓNG ĐÁ,… Ngoài ra, chúng tôi còn có nơi đậu XE MÁY, Ô Tô thoải mái. Căn hộ của chúng tôi rất phù hợp cho du khách gia đình, nhóm bạn thân, cặp đôi yêu nhau,...</p><br><p>* Đến với chúng tôi, quý khách luôn nhận được sự phục vụ thân thiện, văn hoá, lịch sự.</p><br><p>CĂN HỘ TẦNG BA sẽ áp dụng chương trình ưu đãi: giảm 10% giá phòng cho khách check in, like và share fanpage CĂN HỘ TẦNG BA, áp dụng cho phòng đặt từ 22/5 đến hết 15/06 nhé!</p><br><p>Hãy xách balô lên và đi thôi nào!</p>",
+      "rule": "<p>- Check in 13h đến 14h</p><p>- Check out 11h đến 12h</p><p>- Không hút thuốc trong nhà</p><p>- Dọn dẹp sau khi vào phòng tắm và nhà bếp.</p><p>- Khóa cửa trước khi rời khỏi nhà tranh.</p><p>- Hãy giữ tiếng ồn xuống sau 10: 00 tối.</p><p>- Hãy yêu cầu giúp đỡ hoặc lời khuyên!</p><p>Chúng tôi hy vọng rằng bạn thích ở trong ngôi nhà của chúng tôi! Xin vui lòng cho chúng tôi biết làm thế nào chúng ta có thể làm cho bạn ở lại tốt hơn.</p>",
+      "price": 1100000,
+      "additional_guests": 150000,
+      "weekend_price": 1100000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/KURQDpW.jpg",
+      "cityId": 4
+    },
+    {
+      "id": 401,
+      "rating": 5,
+      "roomType": "Phòng riêng",
+      "review_count": 12,
+      "category": "CĂN HỘ DỊCH VỤ",
+      "name": "Gia Hạ House_Room2.1_Có View ĐỒI",
+      "address": "Đà Lạt, Lâm Đồng, Vietnam",
+      "area": 35,
+      "guests": 2,
+      "maximum_guests": 3,
+      "size": "3 khách · 1 phòng ngủ · 1 phòng tắm",
+      "detail": "<p>MÙA HÈ này bạn cần chổ ở rông rãi để nghĩ ngơi hoặc làm việc yên tĩnh thì <strong>Gia Hạ House Đà Lạt</strong> đáp ứng nhu cầu của bạn</p><br><p>- Chổ ở yên tĩnh nhưng <strong>cách trung tâm không quá xa</strong>, chỉ 3,1km.</p><br><p>- Phòng riêng biệt không dùng chung với phòng khác.</p><br><p>- Phòng lớn phù hợp với cặp tình nhân, vợ chồng, gia đình có con. Phòng có thể đáp ứng nhóm bạn từ 2-3 người.</p><br><p>- Phòng có ánh sáng tự nhiên. Có sofa và sofa bed để ban thư giản đọc sách và <strong>ngắm núi đồi buổi sáng và về đêm</strong>.</p><br><p>-<strong><em>Đối diện phòng là đồi công viên cao nhất khu Ngô Quyền</em></strong> nên có thể lên để <strong><em>chụp ảnh bình minh, hoàng hôn rất đẹp không bị cản tầm nhìn.</em></strong></p><br><p>- Phòng rộng rãi đẹp 35m2, giường Kingsize 1m8x2m , cho bạn phút giây nghỉ ngơi thoải mái</p><br><p>- Phòng có bếp mini thuận tiện cho bạn nấu ăn nhẹ.</p><br><p>-<strong>Có cho thuê xe máy 150k/ngày</strong></p>",
+      "rule": "<p>- Không hút thuốc trong phòng</p><p>- Vui lòng về phòng trước 23h30</p><p>- Trò chuyện khẽ sau 23h30 để không ảnh hưởng đến các phòng khác</p><p>- Vui lòng không mang theo vật nuôi</p><p>- Không tổ chức tiệc</p>",
+      "price": 649000,
+      "additional_guests": 150000,
+      "weekend_price": 699000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/mWkt884.jpg",
+      "cityId": 4
+    },
+    {
+      "id": 402,
+      "rating": 5,
+      "roomType": "Nguyên căn",
+      "review_count": 8,
+      "category": "NHÀ RIÊNG",
+      "name": "DaLAF House",
+      "address": "Đà Lạt, Lâm Đồng, Vietnam",
+      "area": 160,
+      "guests": 8,
+      "maximum_guests": 15,
+      "size": "15 khách · 4 phòng ngủ · 4 phòng tắm",
+      "detail": "<p>- Nhà nằm trên đường Phan Đình Phụng (đường chính ở Đà Lạt).</p><br><p>- Bạn sẽ có mọi thứ bạn có ở nhà như TV, tủ lạnh, bếp ga, nước miễn phí, ...</p><br><p>- Bên cạnh đó, gần nhà là chợ hải sản lớn nhất nên bạn có thể mua cá tươi, tôm hùm, cua, ...</p><br><p>- Nếu bạn đi bằng ô tô thì nhà có bãi đậu xe.</p><br><p>- Và tầng cao nhất của ngôi nhà, bạn có thể tổ chức tiệc BBQ, ... cùng gia đình và ngắm thị trấn.</p><p><br></p><p>Tôi sẽ cung cấp cho bạn thông tin tốt nhất về Đà Lạt và hỗ trợ chuyến đi của bạn khi cần.</p><p><br></p><p>Tôi sẽ có sẵn trên phoine, SMS, Zalo, Facebook hoặc bất kỳ mạng xã hội nào - liên hệ với tôi bất cứ điều gì khi bạn cần giúp đỡ</p><p><br></p><p>Bạn có thể thuê xe máy với dịch vụ miễn phí là 5 - 7 đô la / ngày</p><p><br></p><p>Bạn cũng có thể thực hiện một chuyến tham quan thành phố quanh dalat bằng xe hơi với hướng dẫn viên của tôi. Nếu bạn không có máy bay, chỉ cần cho tôi biết bạn muốn đi đâu, tôi sẽ đi phần còn lại!</p>",
+      "rule": "<p>- Giờ yên tĩnh từ 11 giờ tối đến 6 giờ sáng</p><p>- Không phá vỡ nội thất</p><p>- Đây không phải là một khách sạn, tôi hy vọng bạn đối xử với nhà của tôi như của bạn và cư xử trong khi ở.</p><p>- Check-in và check-out đúng thời gian quy định</p><p>- Chỉ mở phòng theo số lượng người đặt (Ví dụ: 8 người mở 2 phòng lớn 4 giường).</p><p>- Nhận phòng sớm (hoặc trả phòng muộn): Trước (sau) 3 giờ tính giá phòng nửa ngày, trước (sau) 6 giờ tính tiền một ngày.</p><p>- Đi đúng số lượng người đặt thực tế. Các trường hợp phát sinh thêm tính phụ thu 200.000 đồng/ người.</p>",
+      "price": 1500000,
+      "additional_guests": 150000,
+      "weekend_price": 1800000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/DY3bwLS.jpg",
+      "cityId": 4
+    },
+    {
+      "id": 403,
+      "rating": 4.6,
+      "roomType": "Nguyên căn",
+      "review_count": 10,
+      "category": "CĂN HỘ DỊCH VỤ",
+      "name": "Saison de Dalat - Căn hộ gia đình Printemps",
+      "address": "Đà Lạt, Lâm Đồng, Vietnam",
+      "area": 39,
+      "guests": 4,
+      "maximum_guests": 5,
+      "size": "5 khách · 1 phòng ngủ · 1 phòng tắm",
+      "detail": "<p>Căn hộ gia đình Printemps nằm trên lầu 1 của căn biệt thự Pháp giữa lòng thành phố Đà Lạt, cách chợ Đà Lạt 5 phút đi bộ. Tiện ích nổi bật bao gồm bếp, máy giặt, smart TV box, WiFi và ban công. Chỗ ở bao gồm 1 phòng sinh hoạt chung, 2 phòng ngủ, 1 phòng tắm và 2 ban công. Tất cả không gian bên trong là hoàn toàn riêng tư, không dùng chung với khách khác. Phù hợp cho nhóm bạn hoặc gia đình từ 4 - 5 người.</p><p><br></p><p><strong>Ổ khóa thông minh</strong></p><br><p><span>Tất cả căn hộ ở Saison de Dalat sử dụng ổ khóa thông minh tiện lợi, không cần chìa khóa. Bạn sẽ được cấp mã số riêng để mở cửa.</span></p><br><p><strong>Chỗ ngủ</strong></p><br><p>Chỗ ở có 1 giường đôi (queen/1m6) trong phòng riêng và 1 giường tầng ở phòng ngoài. Có thể thêm chỗ ngủ ở ghế sofa hoặc trải nệm.</p><br><p><strong>Bếp</strong></p><br><p><span>Căn hộ được trang bị một gian bếp nhỏ có tủ lạnh, lò vi sóng, bếp từ và ấm siêu tốc để nấu ăn nhẹ trong phòng. Các dụng cụ cơ bản (chén, dĩa, dao, nồi...) đều được chuẩn bị sẵn.</span></p><br><p><strong>Máy giặt</strong></p><br><p><span>Bạn có thể tự giặt quần áo cho các chuyến đi dài ngày. Trong phòng cũng có sẵn giàn phơi và bàn ủi.</span></p><br><p><strong>Phòng tắm riêng</strong></p><br><p>Có nước nóng ở cả bồn rửa mặt và vòi hoa sen. Khu vực toilet và tắm có vách ngăn riêng, nhiều người có thể sử dụng cùng lúc. Các tiện ích đi kèm bao gồm khăn, sữa tắm, dầu gội, bàn chải đánh răng dùng một lần và máy sấy tóc.</p><br><p><strong>Các tiện ích khác</strong></p><br><p><span>Căn hộ được trang bị WiFi miễn phí, TV cùng Android TV box có sẵn tài khoản Netflix và nhiều ứng dụng khác.</span></p><br><p><span>Trong khi ở, bạn có thể ra vào nhà thời gian tùy ý, không có giờ giới nghiêm.</span></p><br><p><strong>Chỗ đậu xe</strong></p><br><p><span>Trước nhà có chỗ đậu xe máy trên vỉa hè.</span></p><br><p><span>Căn hộ không có chỗ đậu xe ô tô. Trong khu vực bán kính 1km quanh nhà có một số bãi đậu ô tô thu phí.</span></p>",
+      "rule": "<ul><li><p>THEO QUY ĐỊNH CỦA CHÍNH QUYỀN ĐỊA PHƯƠNG VỀ PHÒNG CHỐNG DỊCH COVID-19, khách lưu trú trước khi nhận phòng cần xuất trình CMND hoặc hộ chiếu và khai báo các thông tin sau: Lịch trình đã đi trong 14 ngày qua, Số hiệu chuyến bay/Số xe vào Việt Nam và Lâm Đồng, Ngày đến Việt Nam và Lâm Đồng, Mục đích lưu trú, Tình hình sức khỏe hiện tại, Lịch trình tiếp theo sau khi rời khỏi cơ sở lưu trú.</p></li><li><p>Đây là căn hộ tự phục vụ và self check-in (tự nhận phòng). Trước ngày ở, bạn sẽ nhận được hướng dẫn để tự mở cửa và nhận phòng trong khoảng thời gian quy định mà không cần gặp chủ nhà. Xin hãy thực hiện các bước theo hướng dẫn.</p></li><li><p>Trẻ em phải luôn có sự giám sát của bố mẹ hoặc người thân. Mọi trách nhiệm và nghĩa vụ chăm sóc bé đều phải do bạn thực hiện. Bên mình không cung cấp thêm dịch vụ hay đồ dùng riêng cho bé.</p></li><li><p>Căn hộ nằm trong khu vực Phố Đi Bộ của Đà Lạt. Các phương tiện đi lại sẽ bị cấm từ 7h - 10h tối các ngày thứ 7 và Chủ Nhật. Nếu di chuyển bằng xe taxi, bạn có thể xuống xe ở cầu thang đường Phan Đình Phùng (gần cửa hàng FPT Shop, số 64 Phan Đình Phùng) và đi bộ ngược lên. Nếu di chuyển bằng xe máy, bạn sẽ phải xuống xe và dẫn bộ khi vào trong khu vực Phố Đi Bộ.</p></li><li><p>Nơi ở chỉ có chỗ đậu xe máy trên vỉa hè, không có chỗ đậu xe hơi.</p></li><li><p>Nơi ở không có dịch vụ dọn phòng hàng ngày.</p></li></ul>",
+      "price": 921600,
+      "additional_guests": 130000,
+      "weekend_price": 1178000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/ROGec9v.jpg",
+      "cityId": 4
+    },
+    {
+      "id": 500,
+      "rating": 4.8,
+      "roomType": "Phòng riêng",
+      "review_count": 12,
+      "category": "CĂN HỘ STUDIO",
+      "name": "AimeeHomestay#2 - Phan Bội Châu/ Self check-in",
+      "address": "Hoàn Kiếm, Hà Nội, Vietnam",
+      "area": 25,
+      "guests": 2,
+      "maximum_guests": 2,
+      "size": "2 khách · 1 phòng ngủ · 1 phòng tắm",
+      "detail": "<p>Xin chào! Chào bạn đã đến với <strong>AimeeHomestay </strong>dành riêng cho:</p><br><p>+ Các cặp đôi đi du lịch ưa thích không gian 'cá tính, hiện đại, lãng mạng, ấm cúng'</p><br><p>+ Những người đi công tác xa muốn được ở trong không gian 'tiện nghi, rộng rãi, thân thuộc như ở nhà'</p><br><p><strong>AimeeHomestay</strong> của chúng tôi bao gồm:</p><br><p>- 5 phòng có giường đôi mềm mại thoải mái tạo cảm giác thư giãn sau những ồn ào của Phố thị</p><br><p>- Điều hoà 2 chiều</p><br><p>- Phòng tắm rộng rãi, sạch sẽ, hiện đại, tiện nghi gồm: 2 khăn tắm, sữa tắm, dầu gội, bàn chải, kem đánh răng, máy sấy</p><br><p>- Cafe, lipton, nước uống miễn phí cùng với ấm siêu tốc</p><br><p>- Phòng bếp đầy đủ tiện nghi: tủ lạnh, bếp hồng ngoại, lò nướng, lò vi sóng, bát đũa,...</p><br><p>- Wifi miễn phí</p><br><p>- Có chỗ để xe máy</p><br><p>- Toạ lạc tại Phan Bội Châu đối diễn quán ăn nổi tiếng Quán Ngon và cách 5 phút đi bộ tới Tống Duy Tân.</p>",
+      "rule": "<p>Không hút thuốc trong phòng ngủ</p><p>Không sử dụng chất kích thích</p><p>Không mở tiệc trong phòng</p><p>Vui lòng tắt các thiết bị khi bạn ra khỏi phòng</p>",
+      "price": 360000,
+      "additional_guests": 99999,
+      "weekend_price": 450000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/gKBdPgX.jpg",
+      "cityId": 5
+    },
+    {
+      "id": 501,
+      "rating": 4.8,
+      "roomType": "Nguyên căn",
+      "review_count": 11,
+      "category": "CĂN HỘ CHUNG CƯ · VINHOMES GREEN BAY",
+      "name": "ADODDA - Vinhome Greenbay",
+      "address": "Nam Từ Liêm, Hà Nội, Vietnam",
+      "area": 28,
+      "guests": 2,
+      "maximum_guests": 2,
+      "size": "2 khách · 1 phòng ngủ · 1 phòng tắm",
+      "detail": "<p><strong>ADODDA</strong> là căn homestay có đầy đủ tiện ích dành cho khách du lịch hoặc đi công tác tại Vinhome Greenbay Mễ Trì, Nam Từ Liêm, Hà Nội (gần hầm chui Đại lộ Thăng Long, nút giao Big C).</p><br><p>Đây là căn hộ đầu tay tôi trang trí và chuẩn bị từng góc nhỏ để đón khách, cố gắng tạo sự thân thiện và tiện lợi đến tất cả khách hàng.</p><br><p>Từ ADODDA bạn có thể dễ dàng di chuyển đến Trung tâm hành chính của Hà Nội, khu phố cổ, đường lên sân bay Nội Bài, các địa điểm du lịch.</p><br><p>Việc đón taxi cũng khá thuận tiện, gần Kengnam,...</p><br><p>Bên cạnh đó, tôi cũng là một người bản địa <span>vô cùng thân thiện và thoải mái. Chính vì vậy đừng ngại ngần mà chia sẻ với chúng tôi những điều bạn đang thắc mắc hoặc những khó khăn bạn gặp phải khi ở đây. </span></p><br><p><span>Chúng tôi cũng luôn mong muốn được cùng bạn khám phá nhiều địa điểm tốt đẹp nhất tại đây. </span></p><br><p><span>Vậy còn chần chừ gì nữa ngay bây giờ hãy lên kế hoạch để tận hưởng những khoảnh khắc tuyệt vời cùng nhau.</span></p><br><p>Mong rằng bạn sẽ có trải nghiệm vui vẻ và đầy ý nghĩa ở ADODDA.</p>",
+      "rule": "<p>Khách báo trước giờ nhận phòng 3 tiếng.</p><p>Khách cần giao hộ chiếu hoặc căn cước công dân cho chủ nhà.</p><p>Không sử dụng các chất kích thích</p><p>Không mở nhạc quá 11 PM (23: 00)</p><p>Không hút thuốc trong phòng ngủ</p><p>Không mở tiệc trong phòng</p><p>Vui lòng tắt các thiết bị khi bạn ra khỏi phòng</p>",
+      "price": 480000,
+      "additional_guests": 0,
+      "weekend_price": 530000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/zhWgUf3.jpg",
+      "cityId": 5
+    },
+    {
+      "id": 502,
+      "rating": 4.7,
+      "roomType": "Phòng riêng",
+      "review_count": 19,
+      "category": "CĂN HỘ CHUNG CƯ · NAM TRUNG YÊN",
+      "name": "San's Home [Sharing home]",
+      "address": "Cầu Giấy, Hà Nội, Vietnam",
+      "area": 30,
+      "guests": 2,
+      "maximum_guests": 2,
+      "size": "2 khách · 1 phòng ngủ · 1 phòng tắm",
+      "detail": "<p>Một căn phòng tràn ngập ánh nắng, cây và sách. Vô cùng thoáng đãng và thoải mái. Bạn có thể ngắm hoàng hôn tím lịm phía chân trời, giữa những tòa nhà, nghe tiếng rao văng vẳng của những người bán dạo. Đúng chất Hà Nội, San's Homestay nằm trong một khu chung cư cũ nhưng căn hộ được tự tay San chăm bẵm, trang trí. Bạn có thể tìm thấy nhiều điều thú vị xung quanh khu nhà.</p><br><p>Hiện San đang học tập và sinh sống ở nước ngoài, để được hỗ trợ, vui lòng liên hệ Ms. Giang 0862 690 688. San's Home là căn hộ chia sẻ, quản gia sẽ ở một phòng riêng cùng căn hộ.</p><br><p>Chúng tôi dành tất cả những gì tuyệt vời nhất cho căn hộ xinh đẹp này để chờ đến ngày được chào đón bạn. Thiết kế chủ đạo với tông màu trắng cùng nội thất tốt giúp ngôi nhà trẻ trung và ấm cúng, mang đến cho bạn cảm giác như đang ở trong chính ngôi nhà của mình vậy.</p><br><p>Bên cạnh đó, chúng tôi cũng là một người địa phương vô cùng thân thiện và thoải mái. Chúng tôi cùng chia sẻ căn hộ với bạn, chính vì vậy đừng ngại ngần chia sẻ với chúng tôi những điều bạn đang thắc mắc hoặc những khó khăn bạn gặp phải khi ở đây nhé!</p>",
+      "rule": "<ul><li><p>San's Home là căn hộ chia sẻ, quản gia sẽ ở một phòng riêng cùng căn hộ để hỗ trợ bạn.</p></li><li><p>Hãy báo với San giờ giấc check in check out dự kiến của bạn, mọi thứ đều linh hoạt, đừng lo.</p></li><li><p>Chú ý khi sử dụng những không gian chia sẻ: nhà bếp, nhà tắm, phòng khách... thật nhẹ nhàng, gọn gàng và sạch sẽ.</p></li><li><p>Đừng ngại yêu cầu/góp ý bất cứ điều gì, chúng ta sẽ cùng giải quyết nó.</p></li><li><p>Hiện San đang học tập và sinh sống ở nước ngoài, để được hỗ trợ về căn hộ, vui lòng liên hệ Ms. Giang</p></li></ul>",
+      "price": 306000,
+      "additional_guests": 150000,
+      "weekend_price": 350000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/gn6BwZz.jpg",
+      "cityId": 5
+    },
+    {
+      "id": 503,
+      "rating": 4.8,
+      "roomType": "Phòng riêng",
+      "review_count": 36,
+      "category": "CĂN HỘ DỊCH VỤ",
+      "name": "Ha noi Home 2 - Homestay view Hồ Tây, free xe đạp (3rd)",
+      "address": "Tây Hồ, Hà Nội, Vietnam",
+      "area": 30,
+      "guests": 2,
+      "maximum_guests": 2,
+      "size": "2 khách · 1 phòng ngủ · 1 phòng tắm",
+      "detail": "<p>Căn hộ dịch vụ <strong>Hanoi home 2</strong> (tầng 2) tại quận Tây Hồ, Hà Nội, Việt Nam <strong>nằm ngay sát Hồ Tây</strong> (lake view) . Phòng nằm tại một vị trí đẹp, thoát mát và yên tĩnh, <strong>nhìn ra Hồ Tây</strong>.</p><br><p>Ở nơi đây có bàn ghế ngoài ban công, nơi mà bạn có thể ngồi ngắm cảnh Hồ Tây và nhâm nhi 1 ly cafe đắng. Đầy đủ nội thất, tầm nhìn tốt, không gian sáng sủa và yên tĩnh, tràn ngập ánh sáng tự nhiên với giá cả hợp lý.</p><br><p>Quanh khu vực có rất nhiều tiện ích, <strong>gần với rất nhiều danh lam thắng cảnh nổi tiếng</strong> như: Hồ Tây, Chùa Trấn Quốc, Chùa Quán Thánh, Làng Hoa Quảng An, Làng hoa đào Nhật Tân, cầu Long Biên, Sông Hồng, Hồ Gươm.</p>",
+      "rule": "<p>- Không hút thuốc lá trong phòng</p><p>- Không vật nuôi</p><p>- Không ma túy, cờ bạc, rượu chè, tụ tập liên hoan</p><p>- Không tàng trữ vũ khí, vật liệu cháy nổ</p><p>- Không thực hiện các hành vi bị pháp luật ngăn cấm</p><p>- Không đồng ý cho người dưới 18 tuổi thuê</p><p>- Không tổ chức tiệc.</p><p>- Dịch vụ dọn phòng 2 lần / tuần</p><p>- Không phục vụ khách Trung Quốc hoặc đến từ Trung Quốc</p>",
+      "price": 450000,
+      "additional_guests": 0,
+      "weekend_price": 480000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/YZDmeRL.jpg",
+      "cityId": 5
+    },
+    {
+      "id": 504,
+      "rating": 4.9,
+      "roomType": "Nguyên căn",
+      "review_count": 13,
+      "category": "CĂN HỘ CHUNG CƯ · VINHOMES GREEN BAY",
+      "name": "♥LAKE VIEW♥Spacious Studio @ Vinhomes Greenbay",
+      "address": "Nam Từ Liêm, Hà Nội, Vietnam",
+      "area": 28,
+      "guests": 2,
+      "maximum_guests": 3,
+      "size": "3 khách · 1 phòng ngủ · 1 phòng tắm",
+      "detail": "<p>Nằm tại một trong những chung cư cao cấp nhất tại Hà Nội, <strong>Vinhomes Greenbay </strong>có mức sống cao nhất. Khách có thể sử dụng phòng tập thể dục, hồ bơi, quần vợt, khu vực BBQ miễn phí ... Hơn thế nữa, Vinhomes Greenbay có một hồ nước rộng 65ha bên trong. Khách có thể sử dụng nhiều dịch vụ từ Vingroup như VinMart, Vinshool, Vinmec với giá thấp hơn bình thường.</p><br><p>Ngôi nhà nằm ở tầng 17, nơi có tầm nhìn toàn cảnh hồ. Studio rộng rãi của tôi với đồ nội thất chất lượng cao được trang bị đầy đủ những nội thất hiện đại:</p><br><p>- 01 giường King</p><br><p>- 01 phòng tắm</p><br><p>- Nhà bếp và thiết bị gia dụng</p><br><p>- TV và truy cập Internet tốc độ cao</p><br><p>- Máy giặt và bàn ủi, bạn có thể sử dụng chúng hoặc sử dụng dịch vụ giặt là có phí</p><br><p>- Máy sấy tóc, bếp điện, lò vi sóng. </p><br><p>Khách có thể sử dụng toàn bộ ngôi nhà với các tiện nghi cung cấp cho kỳ nghỉ của bạn. Chúng tôi rất vui khi được giúp bạn ổn định và chúng tôi ở đây để trả lời bất kỳ câu hỏi nào trước và trong thời gian lưu trú của bạn.</p><br><p>Nhưng chúng tôi cũng tôn trọng không gian bạn cần để tận hưởng thời gian ở Hà Nội. Nếu bạn có bất kỳ yêu cầu hoặc chỉ muốn trò chuyện với chúng tôi, đừng ngần ngại liên hệ với chúng tôi bất cứ lúc nào! Vài phút đến Korea Town từ nhà của tôi.</p><br><p>Vinhomes Green Bay là một <strong>khu sinh thái mới đầy cây và hoa</strong>. Nó cũng có 10ha công viên và hồ nội bộ.</p><br><p>- Sân bay quốc tế Nội Bài là 40 phút (30km) bằng Grab / Taxi.</p><br><p>- Khu phố cổ: 30 phút di chuyển bằng ô tô</p><br><p>- Sân vận động quốc gia Mỹ Đình: 10 phút</p>",
+      "rule": "<p>Check in: từ 14: 00</p><p>Check out từ: 12: 00</p><p>Không hút thuốc</p><p>Không sử dụng các chất kích thích, văn hoá phẩm đồi truỵ</p><p>Vui lòng giữ im lặng sau 22h đêm</p><p>Vui lòng tắt điện khi bạn rời khỏi mỗi phòng</p>",
+      "price": 550000,
+      "additional_guests": 100000,
+      "weekend_price": 600000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/Zys9gbR.jpg",
+      "cityId": 5
+    },
+    {
+      "id": 505,
+      "rating": 4.9,
+      "roomType": "Nguyên căn",
+      "review_count": 13,
+      "category": "CĂN HỘ STUDIO",
+      "name": "C1003 - Căn hộ 2 phòng ngủ tại Imperia Garden - Thiết kế hiện đại và tiện dụng",
+      "address": "Thanh Xuân, Hà Nội, Vietnam",
+      "area": 76,
+      "guests": 4,
+      "maximum_guests": 4,
+      "size": "4 khách · 2 phòng ngủ · 2 phòng tắm",
+      "detail": "<p>Chung cư IMPERIA GARDEN, với 4 toà nhà cao từ 27 đến 35 tầng. Đây là một chung cư cao cấp, sang trọng, đẳng cấp 5 sao. <strong>Nằm giữa trung tâm quận Thanh Xuân</strong>, thành phố Hà Nội, rất thuận lợi cho việc nghỉ ngơi, du lịch và công tác.</p><br><p>Nơi đây có <strong>hệ thống hạ tầng tiện ích và dịch vụ đồng bộ, khép kín </strong>bao gồm: các trung tâm chăm sóc sức khỏe và làm đẹp như bể bơi ngoài trời, bể bơi trong nhà (4 mùa), khu tập gym, khu vui chơi trẻ em, trường học, hệ thống nhà hàng, siêu thị mua sắm, hầm đỗ xe thông minh …</p><br><p>Các khoảng cây xanh đan xen giúp làm hài hòa cảnh quan và không gian kiến trúc tổng thể và góp phần điều hòa không khí, tạo không gian nghỉ ngơi thư giãn. Tất cả nhằm kiến tạo một môi trường sống chất lượng, mang tới cuộc sống hoàn hảo cho cư dân.</p><br><p>Đến với <strong>Vistay</strong> bạn sẽ được tận hưởng một cuộc sống khác biệt, không gian thật sự sang trọng, thoải mái, có thể nghỉ dưỡng và vui chơi thỏa thích. Ngoài ra, phía trong chỗ ở của chúng tôi đã chuẩn bị sẵn cho bạn: TV, tủ lạnh, máy giặt, wifi miễn phí, điều hoà 2 chiều, bồn tắm nước nóng, giường, tủ, bàn ghế, sofa, bếp, dụng cụ nấu ăn, …</p>",
+      "rule": "<p>Để đảm bảo quyền lợi của quý khách cùng như của chủ nhà, chúng tôi mong muốn trong thời gian lưu trú quý khách tự phục vụ - Vi’s Luxury Apartment, quý khách cần phải tuân thủ theo những nội quy sau:</p><p>- Quý khách vui lòng xuất trình hộ chiếu/chứng minh nhân dân/thẻ căn cước/giấy tờ tùy thân khác để làm thủ tục nhận phòng tại Vi’s Luxury Apartment</p><p>- Đề nghị không được mang vào Vietstay vũ khí, độc dược, chất cháy nổ, các chất gây nghiện, quý khách phải hoàn toàn chịu trách nhiệm trước pháp luật nếu vi phạm</p><p>- Quý khách vui lòng không nấu nướng (tuyệt đối không nướng lò than trong Vietstay), tiệc tùng và gây ồn quá 22h ảnh hưởng đến các căn hộ kế bên</p><p>- Quý khách không tự ý di chuyển tài sản. Nếu làm mất, hư hỏng tài sản phải bồi thường 100% giá trị còn lại của tài sản. Phòng không hút thuốc và không được nuôi chó, mèo.</p><p>- Quý khách vui lòng ở đúng số lượng người đã đăng ký; trường hợp Vi’s Luxury Apartment phát hiện có thêm người đề nghị quý khách trả thêm phụ phí 200.000 VNĐ đồng/người/ngày</p><p>- Quý khách vui lòng trả phòng từ 06h đến 12h trưa và nhận phòng từ 14h - 22h. Trường hợp quý khách trả hoặc nhận phòng sớm/muộn hơn quy định, phải chịu phí phụ thu như sau:</p><p>+ Nhận phòng từ 6h-9h sáng: 50% tiền phòng</p><p>+ Nhận phòng từ 9h-12h trưa: 30% tiền phòng</p><p>+ Khách ở quá 12h trưa - 15h trưa: 30% tiền phòng</p><p>+ Khách ở quá 15h trưa - 18h tối: 50% tiền phòng</p><p>- Trước khi trả phòng, quý khách vui lòng dọn dẹp phòng, vệ sinh các đồ dùng đã sử dụng sạch sẽ, ngắt cầu dao điện và hệ thống nước để tránh lãng phí. Nếu quý khách hút thuốc lá trong phòng hoặc ở bẩn, đề nghị trả thêm 300.000 VNĐchi phí khử mùi, làm sạch không gian sống.</p><p>- Quý khách vui lòng thông báo cho chủ nhà (Mr Hùng:  (Hidden by Luxstay) ) trước khi trả phòng 30 phút để gửi lại thẻ ra/vào và thanh toán các khoản chi phí phát sinh (nếu có)</p>",
+      "price": 1080000,
+      "additional_guests": 100000,
+      "weekend_price": 1185000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/rEqKKD5.jpg",
+      "cityId": 5
+    },
+    {
+      "id": 506,
+      "rating": 5,
+      "roomType": "Phòng riêng",
+      "review_count": 5,
+      "category": "CĂN HỘ DỊCH VỤ",
+      "name": "Hà Nội Home 1 - Nice house for you (502)",
+      "address": "Tây Hồ, Hà Nội, Vietnam",
+      "area": 45,
+      "guests": 2,
+      "maximum_guests": 2,
+      "size": "2 khách · 1 phòng ngủ · 1 phòng tắm",
+      "detail": "<p><strong>Hà Nội Home 1 - Homestay phố Tây Hồ</strong> là 1 căn hộ dịch vụ, có bảo vệ 24/7, dịch vụ dọn phòng đầy đủ nên rất sạch sẽ. Đây là một nơi yên tĩnh, mát mẻ với ban công trong phòng ngủ và có tầm nhìn rất tốt. Căn hộ có rất nhiều không khí tự nhiên và có ánh nắng mặt trời buổi sáng. Một nơi phù hợp để nghỉ ngơi, thư giãn, gặp gỡ bạn bè. Căn hộ nằm trong một khu phố đông người nước ngoài, nơi mọi người gọi nó là Phố Tây. Nơi đây có rất nhiều tiện ích, quán cafe, quán ăn ngon phong cách Tây, quán bar, nhà hàng.</p><br><p>Bạn sẽ thấy rất thích thú khi ở đây, đặc biệt ngôi nhà được xay và trang trí theo phong cách vừa hiện đại nhưng lại vừa thô sơ - một phong cách rất YOMOST</p><br><p>Tòa nhà có an ninh 24/24, an ninh tốt, dịch vụ phòng đầy đủ.</p><br><p>Tôi là một chủ nhà vô cùng thân thiện và hiếu khách, tôi sẵn sàng giúp đỡ mỗi khi bạn gặp khó khăn hoặc muốn tìm một địa điểm vui chơi tại thành phố Hà Nội. Đừng ngại ngần mà hãy liên lạc với tôi ngay nhé.</p><br><p>Chào mừng bạn đến với <strong>Hà Nội Home 1 !</strong></p>",
+      "rule": "<p>Không hút thuốc</p><p>Không sử dụng các chất kích thích, văn hoá phẩm đồi truỵ</p><p>Không mang theo vật nuôi</p><p>Không tổ chức tiệc.</p><p>Vui lòng giữ im lặng sau 22h đêm</p><p>Vui lòng tắt điện khi bạn rời khỏi căn hộ</p>",
+      "price": 490000,
+      "additional_guests": 0,
+      "weekend_price": 510000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/sVRBMNI.jpg",
+      "cityId": 5
+    },
+    {
+      "id": 600,
+      "rating": 4.5,
+      "roomType": "Nguyên căn",
+      "review_count": 10,
+      "category": "NHÀ RIÊNG",
+      "name": "Coral House - Nhà nguyên căn cách biển 300m",
+      "address": "Nha Trang, Khánh Hòa, Vietnam",
+      "area": 70,
+      "guests": 6,
+      "maximum_guests": 8,
+      "size": "8 khách · 3 phòng ngủ · 3 phòng tắm",
+      "detail": "<p><span>Ở Coral Houseluôn có một bầu không khí vô cùng dễ chịu khi đặt chân vào, có thể từ màu tường tươi sáng, từ những vật dụng nhỏ xinh với đủ sắc màu, từ những chậu cây bé xinh đặt rải rát khắp nhà.. . Coral House là kiểu bạn có thể thuê từng phòng trong căn nhà lớn, mỗi phòng đều được trang bị phòng ngủ và nhà vệ sinh riêng mang những phong cách khác nhau, với gam màu pastel tươi sáng. Dù có tông màu chủ đạo là xanh – trắng xuyên suốt. Điểm nhấn đặc biệt nhất của Coral House chính là góc cửa sổ nho nhỏ ngay sát cạnh giường, với nhiều cây xanh được trang trí làm điểm nhấn, tạo cảm giác cực kỳ yên bình và nhẹ nhàng. Bạn có thể nằm ngủ ở đây để rồi thức dậy với ánh nắng đan qua hàng cây, hay đơn giản là ngồi đọc sách, ngắm đường phố qua lại trong khi nhâm nhi một ly trà đều rất ấm cúng và tuyệt vời. Đây chắc chắn là một gợi ý lý tưởng để bạn tận hưởng một vẻ đẹp khác của Nha Trang, một vẻ đẹp thoáng đãng, nhẹ nhàng và tinh tế.</span></p><br><p><span>Coral House có mức giá vừa phải, phù hợp nếu bạn đi cặp đôi hoặc nhóm nhỏ3-4 người. Vì bạn sẽ phải thuê phòng riêng trong một căn nhà chung, thế nên việc giữ yên lặng là điều tối quan trọng bạn cần nhớ nhé. Nhưng Coral House cũng sẽ rất tuyệt nếu bạn là một người trẻ cởi mởi, muốn gặp gỡ những người bạn mới. Phòng sinh hoạt chung và khu vườn nhỏ xinh ở đây sẽ luôn đón chào bạn với những bữa tiệc BBQ ngẫu hứng hay một buổi nói chuyện đầy ấm cúng và thú vị.</span></p>",
+      "rule": null,
+      "price": 1000000,
+      "additional_guests": 100000,
+      "weekend_price": 1000000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/BT9TXxL.jpg",
+      "cityId": 6
+    },
+    {
+      "id": 601,
+      "rating": 5,
+      "roomType": "Nguyên căn",
+      "review_count": 2,
+      "category": "CĂN HỘ DỊCH VỤ · CHUNG CƯ MƯỜNG THANH VIỄN TRIỀU NHA TRANG",
+      "name": "999 CONDOTEL Mường Thanh Viễn Triều - Căn hộ 2 Phòng ngủ Nhìn ra Biển",
+      "address": "Nha Trang, Khánh Hòa, Vietnam",
+      "area": 70,
+      "guests": 4,
+      "maximum_guests": 6,
+      "size": "6 khách · 2 phòng ngủ · 2 phòng tắm",
+      "detail": "<p>- <strong>999 Condotel</strong> toạ lạc tại khu bãi biển Phạm Văn Đồng là căn hộ cao cấp có <strong>tầm nhìn ra biển</strong> bao gồm 2 phòng ngủ, 2 phòng tắm, ban công, phòng khách, một gian bếp đầy đủ tiện nghi để nấu nướng...</p><br><p>- Tất cả các chỗ ở của chúng tôi đều trang bị Smart TV màn hình phẳng, Wifi miễn phí, bếp từ, tủ lạnh cỡ lớn, lò vi sóng, máy giặt, máy sấy, bàn ủi và đầy đủ thiết bị vệ sinh cá nhân...</p><br><p>- Chỗ ở của chúng tôi cách bờ biển chỉ 100m, địa danh Hòn Chồng 500m, Tháp Bà Ponagar 1,3km, tắm bùn i-resort 2km, chợ đầm 2,4km...</p><br><p>- Khuôn viên 999 Condotel thoáng đãng mát mẽ . Bạn có thể <strong>tản bộ ngắm nhìn đường phố và bãi biển danh tiếng Hòn Chồng</strong>. Tha hồ trải nghiệm các quán ăn, nhà hàng, cà phê, spa, siêu thị 24h tại tầng trệt,...</p><br><p>- Quý khách nghỉ dưỡng tại 999 Condotel có thể thưởng thức Buffet sáng lên tới 100 món với giá chỉ từ 100.000 VNĐ, chúng tôi cung cấp dịch vụ cho thuê xe máy, xe đưa đón sân bay, tour du lịch giá rẻ...</p><br><p>- Với thiết kế không gian sang trọng và nội thất cao cấp mang phong cách Châu Âu, các chỗ ở của chúng tôi sẽ đem đến sự thoải mái nhẹ nhàng giúp bạn có một giấc ngủ ngon sau một ngày dài làm việc, giải trí...</p><br><p>- Chỗ ở của chúng tôi phù hợp cho tất cả mọi người, gia đình và nhất là các cặp đôi</p><br><p>- Chúng tôi sử dụng ngôn ngữ của bạn</p>",
+      "rule": "<p><span>- Nghiêm cấm mang vũ khí, chất nổ, dễ cháy, ma túy (ma túy), hàng cấm trái với quy định của pháp luật…</span></p><p><span>- Thời gian nhận phòng từ 2: 00pm và trả phòng là 12: 00 trưa, nếu muộn hơn sẽ phải thanh toán thêm phụ phí tương ứng. Mọi chi tiết xin liên hệ tại quầy Lễ tân.</span></p><p><span>- Xin vui lòng không thay đổi phòng hoặc đưa thêm người vào phòng khi chưa đăng ký trước với Lễ tân</span></p><p><span>- Quý khách vui lòng xuất trình hộ chiếu hoặc chứng minh nhân dân để làm thủ tục nhận phòng tại quầy Lễ tân</span></p><p><span>- Chúng tôi chỉ chịu trách nhiệm với những tài sản hoặc tiền được gửi tại quầy Lễ tân</span></p><p><span>- Trước khi rời khỏi chỗ ở của chúng tôi, xin Quý khách vui lòng thanh toán toàn bộ các hoá đơn và gửi lại chìa khoá phòng tại quầy Lễ tân</span></p><p>﻿- Được phép hút thuốc</p><p>- Cho phép mang theo vật nuôi</p>",
+      "price": 749250,
+      "additional_guests": 150000,
+      "weekend_price": 1499000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/xZKbuGL.jpg",
+      "cityId": 6
+    },
+    {
+      "id": 602,
+      "rating": 5,
+      "roomType": "Nguyên căn",
+      "review_count": 6,
+      "category": "CĂN HỘ DỊCH VỤ · CHUNG CƯ MƯỜNG THANH VIỄN TRIỀU NHA TRANG",
+      "name": "999 CONDOTEL Mường Thanh Viễn Triều - Căn hộ 2 Phòng ngủ Nhìn ra 1 phía biển",
+      "address": "Nha Trang, Khánh Hòa, Vietnam",
+      "area": 60,
+      "guests": 4,
+      "maximum_guests": 6,
+      "size": "6 khách · 2 phòng ngủ · 2 phòng tắm",
+      "detail": "<p>999 CONDOTEL toạ lạc tại khu bãi biển Phạm Văn Đồng là Căn hộ cao cấp có tầm nhìn ra biển bao gồm 2 phòng ngủ, 2 phòng tắm, ban công , phòng khách, một gian bếp đầy đủ tiện nghi để nấu nướng...Tất cả căn hộ đều trang bị Smart TV màn hình phẳng, Wifi miễn phí, bếp từ, tủ lạnh cỡ lớn, lò vi sóng, máy giặt, máy sấy, bàn ủi và đầy đủ thiết bị vệ sinh cá nhân...</p><br><p>- Chỗ nghỉ cách bờ biển chỉ 100m, địa danh Hòn Chồng 500m, Tháp Bà Ponagar 1,3km, tắm bùn i-resort 2km, chợ đầm 2,4km...</p><br><p>- Khuôn viên 999 CONDOTEL thoáng đãng mát mẽ . Bạn có thể tản bộ ngắm nhìn đường phố và bãi biển danh tiếng Hòn Chồng. Tha hồ trải nghiệm các quán ăn, nhà hàng, cà phê, spa, siêu thị 24h tại tầng trệt,...</p><br><p>- Quý khách nghỉ dưỡng tại 999 Condotel có thể thưởng thức Buffet sáng lên tới 100 món với giá chỉ từ 100.000đ, chúng tôi cung cấp dịch vụ cho thuê xe máy, xe đưa đón sân bay, tour du lịch giá rẻ...</p><br><p>- Với thiết kế không gian sang trọng và nội thất cao cấp mang phong cách Châu Âu, các căn hộ của chúng tôi sẽ đem đến sự thoải mái nhẹ nhàng giúp bạn có một giấc ngủ ngon sau một ngày dài làm việc, giải trí...</p><br><p>- Chỗ nghỉ chúng tôi phù hợp cho tất cả mọi người, gia đình và nhất là các cặp đôi.</p><br><p>- Chúng tôi sử dụng ngôn ngữ của bạn.</p>",
+      "rule": "<p><span>*Nghiêm cấm mang vũ khí, chất nổ, dễ cháy, ma túy (ma túy), hàng cấm trái với quy định của pháp luật…</span></p><p><span>*Thời gian nhận phòng từ 2: 00pm và trả phòng là</span></p><p><span>12: 00 trưa, nếu muộn hơn sẽ phải thanh toán thêm phụ phí tương ứng. Mọi chi tiết</span></p><p><span>xin liên hệ tại quầy Lễ tân.</span></p><p><span>*Xin vui lòng không thay đổi phòng hoặc đưa</span></p><p><span>thêm người vào phòng khi chưa đăng ký trước với Lễ tân.</span></p><p><span>*Quý khách vui lòng xuất trình hộ chiếu hoặc</span></p><p><span>chứng minh nhân dân để làm thủ tục nhận phòng tại quầy Lễ tân.</span></p><p><span>*Chúng tôi chỉ chịu trách nhiệm với những tài</span></p><p><span>sản hoặc tiền được gửi tại quầy Lễ tân.</span></p><p><span>*Trước khi rời khỏi khách sạn, xin Quý khách vui lòng thanh toán toàn bộ các hoá đơn và gửi lại chìa khoá phòng tại quầy Lễ tân.</span></p>",
+      "price": 561750,
+      "additional_guests": 150000,
+      "weekend_price": 849000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/6QtjHYz.jpg",
+      "cityId": 6
+    },
+    {
+      "id": 603,
+      "rating": 5,
+      "roomType": "Nguyên căn",
+      "review_count": 1,
+      "category": "CĂN HỘ CHUNG CƯ",
+      "name": "Uplaza Homestay - 3 bedrooms - Sea View",
+      "address": "Nha Trang, Khánh Hòa, Vietnam",
+      "area": 120,
+      "guests": 6,
+      "maximum_guests": 8,
+      "size": "8 khách · 3 phòng ngủ · 2 phòng tắm",
+      "detail": "<p>✔️ Căn hộ nằm tại khu trung tâm, bạn dễ dàng di chuyển đến các điểm tham quan trong thành phố</p><br><p>✔️ <span>Căn hộ với diện tích 120m2, rộng rãi thoáng mát với phòng khách nhìn ra biển</span></p><br><p>✔️ Nơi đây cung cấp cho bạn đầy đủ trang thiết bị tiện nghi hiện đại, thoải mái</p><br><p><span>Căn hộ với diện tích 120m2, rộng rãi thoáng mát với phòng khách nhìn ra biển; căn hộ có 3 phòng ngủ, 2 phòng có ban công nhìn ra núi, thành phố và biển, 1 phòng nhìn ra biển; 2 toilet; 1 bếp. Phòng khách, phòng ngủ được trang bị máy lạnh. Quý khách sẽ cảm thấy tự do thoải mái và ấm áp như trong chính ngôi nhà của mình với đầy đủ các trang thiết bị để có thể tận hưởng 1 kỳ nghỉ vui vẻ.</span></p><br><p><span>Căn hộ tòa nhà Uplaza, chỉ cách biển 2 phút đi bộ. Ưu điểm nằm tại trung tâm TP Nha Trang, gần các khu du lịch nổi tiếng như: suối khoáng nóng iResort, Tháp Bà Ponagar, khu du lịch Hòn Chồng, Chợ Đầm.</span></p>",
+      "rule": "<p>- Giờ checkin: 14h00</p><p>- Thông báo thời điểm checkin trước 30ph cho chủ nhà</p><p>- Giờ checkout: 12h00 trưa</p><p>- Thông báo thời điểm checkout trước 30ph cho chủ nhà</p>",
+      "price": 1800000,
+      "additional_guests": 200000,
+      "weekend_price": 1800000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/LcBqmVV.jpg",
+      "cityId": 6
+    },
+    {
+      "id": 700,
+      "rating": 4.8,
+      "roomType": "Nguyên căn",
+      "review_count": 11,
+      "category": "CĂN HỘ CHUNG CƯ · GREEN BAY PREMIUM HẠ LONG",
+      "name": "Green Bay Premium",
+      "address": "Hạ Long, Quảng Ninh, Vietnam",
+      "area": 74,
+      "guests": 4,
+      "maximum_guests": 5,
+      "size": "5 khách · 2 phòng ngủ · 2 phòng tắm",
+      "detail": "<p>Chỗ ở của chúng tôi <strong>nằm ở tầng 20</strong>, thuộc chung cư Green Bay Premium. Đây là chung cư cao cấp nhất tại Hạ Long hiện nay nằm trong quần thể khu đô thị mới Việt Nam ngay trung tâm thành phố Hạ Long.</p><br><p>Chỗ ở của chúng tôi có <strong>ban công hướng Đông Nam nên hưởng trọn tầm nhìn Vịnh Hạ Long và gió biển</strong>. Nằm trong quần thể gồm tiện ích chung như bể bơi, phòng tập, siêu thị, quán cafe, quán ăn v.v...Cách trung tâm vui chơi giải trí từ 3-10 phút đi xe.</p><br><p>Chỗ ở của chúng tôi trang bị đầy đủ tiện nghi: 2 phòng ngủ phù hợp gia đình đi nghỉ. Có bếp, máy giặt và các tiện nghi khác đảm phục vụ tốt nhất cho kỳ nghỉ của bạn.</p><br><p>Từ ban công, phòng khách và phòng ngủ có thể ngắm vịnh Hạ Long. Mở cửa để hưởng gió biển và không khí biển.</p><br><p>Trẻ em có thể vui chợi tại sân chơi cho trẻ em hoặc bơi tại bể bơi của khu đô thị. Đây là địa điểm lý tưởng để tận hưởng kỳ nghỉ tại Hạ Long và khám phá Vịnh Hạ Long, kỳ quan thiên nhiên thế giới.</p>",
+      "rule": "<p>- Không hút thuốc lá và không sử dụng các chất cấm</p><p>- Không mang theo vật nuôi</p><p>- Tránh việc làm ồn gây ảnh hưởng đến các căn hộ xung quanh</p><p>- Chúng tôi sẽ hỗ trợ bạn trong suốt quá trình lưu trú tại đây</p><p>- Tuân thủ pháp luật và không thực hiện việc vi phạm pháp luật trong căn hộ</p><p>- Tuân thủ quy định và nội quy của tòa nhà</p><p>- Giữ gìn đồ đạc cho chúng tôi và tắt các thiết bị điện khi ra khỏi nhà và khi không dùng đến</p><p>- Đề nghị rửa bát đĩa trước khi check out</p>",
+      "price": 900000,
+      "additional_guests": 0,
+      "weekend_price": 1300000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/LOXjN2T.jpg",
+      "cityId": 7
+    },
+    {
+      "id": 701,
+      "rating": 5,
+      "roomType": "Nguyên căn",
+      "review_count": 1,
+      "category": "CĂN HỘ CHUNG CƯ · GREEN BAY PREMIUM HẠ LONG",
+      "name": "HaLong Dragon Homestay 1713",
+      "address": "Hạ Long, Quảng Ninh, Vietnam",
+      "area": 70,
+      "guests": 3,
+      "maximum_guests": 6,
+      "size": "6 khách · 2 phòng ngủ · 2 phòng tắm",
+      "detail": "<p><strong>HALONG DRAGON HOMESTAY</strong> – có vị trí đắc địa nhìn thẳng ra vịnh Hạ Long xinh đẹp. Sự lựa chọn không thể tuyệt vời hơn để nghỉ dưỡng mỗi khi đặt chân đến Hạ Long️️ ️</p><br><p>Chỉ 2h đồng hồ di chuyển từ Hà Nội bằng đường cao tốc, quý khách đã đặt chân đến Dragon Homestay. Chỗ ở của chúng tôi thuộc chung cư cao cấp Green Bay Premium ở trung tâm khu du lịch Bãi Cháy. <strong>Nằm bên bờ vịnh Hạ Long</strong>, trên mặt đường bao biển dẫn vào trung tâm thành phố.</p><br><p>Phòng khách, 2 phòng ngủ, <strong>ban công có view trực diện vịnh Hạ Long, đảo Rều từ trên cao</strong>. Nội thất cao cấp với đầy đủ trang thiết bị: điều hòa hai chiều, máy giặt, máy sấy tóc, smart TV, Wifi,...</p><br><p>2 phòng ngủ với 3 giường, phòng khách có sofa bed, 2 WC, chăn ga gối đệm Hanvico êm ái, đủ chỗ ở cho 6 người lớn. Phòng bếp hiện đại đầy đủ: bếp từ, lò vi sóng, nồi cơm điện, nồi lẩu, tủ lạnh,...Sẵn sàng đáp ứng nhu cầu cho các chị em trổ tài bữa tiệc thịnh soạn.</p><br><p>Tiện ích:</p><br><p>- Chỉ 8 phút di chuyển tới khu vui chơi giải trí hàng đầu Sun World Halong Park</p><br><p>- Chỉ 3 phút tới ngay bãi biển Marina Bay Beach, Little Vietnam, Halong Marine Plaza, rạp chiếu phim CGV</p><br><p>- Gần chợ Cái Dăm nổi tiếng với các loại hải sản tươi sống đảm bảo ngon sạch</p><br><p>- Vài phút đi xe tới ngay chợ đêm Hạ Long, bến cảng Tuần Châu</p><br><p>- Cách bến xe Bãi Cháy 2km</p><br><p>- Cách sân bay quốc tế Cát Bi hơn 30km</p><br><p>- Khu dân cư văn minh, hiện đại</p><br><p>- Có siêu thị Vinmart, tạp hoá, tiệm café, tiệm bánh, làm tóc, gym dưới tầng 1</p><br><p>- Bể bơi ngoài trời và khu vui chơi cho trẻ em</p><br><p>- Bảo vệ và camera an ninh, hệ thống đèn điện chiếu sáng hành lang và bên ngoài 24/24</p><br><p>- Với số lượng phòng có sẵn, chúng tôi đáp ứng các đoàn khách đi lẻ hoặc theo đoàn dưới 20 người</p>",
+      "rule": "<p>- Không mang theo vật nuôi</p><p>- Không hút thuốc, không sử dụng chất kích thích trong suốt thời gian lưu trú tại đây</p><p>- Nên book phòng trước 7 ngày, không check in muộn</p><p>- Quý khách vui lòng xuất trình hộ chiếu hoặc chứng minh nhân dân để làm thủ tục nhận phòng với chủ nhà (chúng tôi) hoặc người được ủy quyền và thanh toán phí cho chỗ ở của chúng tôi</p><p>- Không mang súng đạn, chất cháy nổ, chất độc hại, các chất gây nghiện, đồ vật cồng kềnh, vật nuôi vào chỗ ở của chúng tôi</p><p>- Không thay đổi, di chuyển đồ đạc trong phòng hoặc từ phòng này sang phòng khác. Trường hợp tài sản, đồ dùng trong phòng bị mất, hỏng do chủ quan, Quý khách sẽ phải bồi thường 100 % giá trị.</p><p>- Chúng tôi mong Quý khách coi đây như ngôi nhà của mình, vì vậy việc giữ gìn vệ sinh chung vô cùng quan trọng</p><p>- Xin vui lòng không thay đổi phòng hoặc đưa thêm người và phòng khi chưa đăng ký với chúng tôi</p><p>- Khi ra khỏi chỗ ở của chúng tôi, Quý khách vui lòng đóng cửa sổ và khóa cửa chính cẩn thận. Ngắt các thiết bị điện.</p><p>- Nếu Quý khách phát hiện có hiện tượng bất thường như cháy, rò nước, xin hãy gọi số điện thoại HOTLINE hoặc thông báo cho người ở khu vực gần nhất và bình tĩnh làm theo chỉ dẫn</p><p>- Thời gian trả phòng là 11h00, nếu trả phòng muộn hơn sẽ phải thanh toán thêm phụ phí tương ứnglà 100.000 VNĐ/giờ. Trong trường hợp cần thiết xin vui lòng liên hệ với chúng tôi hoặc người được ủy quyền.</p><p>- Trước khi rời khỏi chỗ ở của chúng tôi, xin Quý khách vui lòng thanh toán toàn bộ các hóa đơn (nếu phát sinh) và trả lại chìa khóa phòng cho chúng tôi hoặc người được ủy quyền</p><p>Chúc Quý khách một kỳ nghỉ vui vẻ!</p>",
+      "price": 400000,
+      "additional_guests": 140000,
+      "weekend_price": 500000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/awI5hHm.jpg",
+      "cityId": 7
+    },
+    {
+      "id": 702,
+      "rating": 4.9,
+      "roomType": "Nguyên căn",
+      "review_count": 9,
+      "category": "BIỆT THỰ",
+      "name": "Newstar Ha Long - Vinhomes Dragon Bay Ha Long",
+      "address": "Hạ Long, Quảng Ninh, Vietnam",
+      "area": 280,
+      "guests": 17,
+      "maximum_guests": 17,
+      "size": "17 khách · 4 phòng ngủ · 5 phòng tắm",
+      "detail": "<p>- <strong>New Star</strong> là một căn Shop House với 4 phòng ngủ hiện đại, luôn tràn ngập ánh sáng từ những ban công rộng</p><br><p>- Các khu vực <strong>bể bơi, gym, chợ hải sản, trung tâm thương mại, bảo tàng đều ở rất gần</strong> chỗ ở của chúng tôi</p><br><p>- Chỉ chưa đầy 1 phút đi bộ là bạn có thể đắm mình vào khung cảnh hùng vĩ 'phía trước mặt hướng ra vịnh Hạ Long, lưng tựa núi Bài Thơ'</p><br><p><strong>Tiện ích căn hộ cung cấp</strong>:</p><br><p>Chúng tôi hy vọng du khách sẽ tận hưởng New Star gần gũi và thoải mái như chính ngôi nhà của bạn với:</p><br><p><strong>LƯU Ý</strong>:</p><br><p>- Tầng 1 là công ty theo mô hình Shop House của Vinhomes nên sẽ là lối vào cửa chung. Khách sử dụng sân vườn nhỏ cuối tầng 1, tầng 2 đến tầng 4</p><br><p>- 01 phòng khách rộng tràn ngập ánh sáng và cây xanh. Sau mỗi buổi sáng thức dậy hay mỗi buổi chiều muộn thưởng thức ly trà ấm, đọc vài trang sách để hòa mình vào không gian yên bình.</p><br><p>- Shop House được bố trí 4 phòng ngủ tại tầng 3 và tầng 4, có sức chứa 17 du khách. Các phòng đều được trang bị đầy đủ tiện ích cơ bản.</p><br><p>- 01 căn bếp được trang bị đầy đủ các tiện nghi: bếp từ, tủ lạnh, nồi cơm điện, lò vi sóng và bát đũa để du khách có thể tổ chức một bữa tiệc lớn</p><br><p>- 05 nhà vệ sinh và phòng tắm cũng được thiết kế đầy đủ với các đồ dùng cần thiết cho du khách</p><br><p>- Shop House cũng cung cấp miễn phí wifi và xe đạp đôi</p><br><p>- Đặc biệt Shop House còn có một <strong>không gian sân ngoài trời, rất thích hợp để các nhóm bạn, gia đình tổ chức tiệc nướng </strong>hay trò chuyện thư giãn.</p><br><p>-Thời gian chủ nhà hỗ trợ check in muộn nhất là: 20:00</p>",
+      "rule": "<p>- Thời gian check-in: 14.30</p><p>- Thời gian check-out: 12.00</p><p>- Thời gian check-in và check-out có thể sắp xếp linh động, hãy thông báo với chủ nhà nếu bạn thật sự bận. Tuy nhiên thời gian chủ nhà hỗ trợ check in muộn nhất là 20: 00 </p><p>- Tầng 1 là công ty theo mô hình Shop House của Vinhomes nên sẽ là lối vào cửa chung. Thứ 7, chủ nhật tầng 1 nghỉ không có nhân viên làm việc.</p><p>- Không mang theo vật nuôi</p><p>- Khu vực thuê Newstar Villa tại tầng 2, 3 và 4. Quý khách lưu ý KHÔNG sử dụng và hoạt động tại tầng 1 gây ảnh hưởng tới văn phòng.</p><p>- Quý khách có TRÁCH NHIỆM khóa cửa cẩn thận khi ra ngoài, bảo quản tất cả đồ đạc và các thiết bị trong Newstar. Quý khách sẽ phải ĐỀN BÙ giá trị tương đương hiện tại cho bất cứ hỏng hóc và mất mát của toàn bộ đồ đạc và thiết bị trong thời gian lưu trú.</p><p>- Vui lòng TẮT mọi thiết bị điện tử (đèn, TV, điều hòa, bếp…) khi không sử dụng và đi ra ngoài</p><p>- KHÔNG hút thuốc lá, KHÔNG sử dụng, mua bán, tàng trữ vũ khí, chất nổ và các loại chất cấm trái phép như ma túy, thuốc lắc, bóng cười… dưới mọi hình thức trong toàn bộ Newstar</p><p>- Vui lòng để dép bên ngoài, sử dụng khu vực phòng khách và phòng bếp tại tầng 2 gọn gàng và tôn trọng các khách thuê khác</p><p>- Vui lòng KHÔNG làm ồn trong khoảng thời gian từ 23.00 tới 07.00.Thời gian trả phòng: không muộn hơn 12h.</p><p>- Dịch vụ dọn phòng và đồ tiện ích cơ bản sẽ được cung cấp một lần tại thời điểm nhận phòng. Mọi dịch vụ khách theo yêu cầu sẽ được cung cấp và tính phụ thu.</p>",
+      "price": 4500000,
+      "additional_guests": 300000,
+      "weekend_price": 5500000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/l8uctn6.jpg",
+      "cityId": 7
+    },
+    {
+      "id": 800,
+      "rating": 4.6,
+      "roomType": "Phòng riêng",
+      "review_count": 10,
+      "category": "BIỆT THỰ",
+      "name": "Rice River Villa Hoi An_ Family Room Pool View",
+      "address": "Hội An, Quảng Nam, Vietnam",
+      "area": 50,
+      "guests": 4,
+      "maximum_guests": 4,
+      "size": "4 khách · 1 phòng ngủ · 1 phòng tắm",
+      "detail": "<p>Chào mừng bạn đến với <strong>Rice River Villa Hội An</strong></p><br><p>- Quang cảnh vườn, làng xóm, đồng lúa,..</p><br><p>- Hồ bơi đẹp phù hợp mọi lứa tuổi</p><br><p>- Cánh đồng lúa kề bên để quý khách dạo chơi, ngắm cảnh, chụp hình</p><br><p>- Đầy đủ trang thiết bị tiện nghi, hiện đại với mong muốn bạn được nghỉ ngơi thật thoải mái</p><br><p>- <strong>Rice River Villa Hội An - Family Room Pool View</strong> có diện tích 50m2, với 1 phòng ngủ ( 2 giường đôi ) và 1 phòng tắm</p><br><p>- <strong>Trên sân thượng có tạ, máy chạy bộ</strong>,...đây là nơi vô cùng lý tưởng để quý khách tập thể dục</p><br><p>- Tiện nghi. Dùng BBQ phụ thu theo đầu người.</p><br><p>- Sân thượng trên cùng phục vụ bếp nướng</p>",
+      "rule": "<p>- Qúy khách vui lòng thông báo sớm việc check in sớm hoặc check out trễ để villa tiện bố trí phòng và phụ thu</p><p>- Nếu quá số lượng người quy định trong một phòng thì mức phụ thu sẽ là : 150.000 VNĐ đối với trẻ em trên 7 tuổi đến 12 tuổi và 200.000 VNĐ đối với trẻ em trên 12 tuổi</p><p>- Không gây ồn ào mất trật tự , mở nhạc ầm ĩ sau 10h đêm gây ảnh hưởng đến khách khác</p><p>- Rice River Villa Hội An sẽ charge phí phụ thu nếu quý khách hàng có nhu cầu BBQ , giá giao động từ 500.000 - 700.000 VNĐ tùy vào số lượng khách đi, phí trên đã bao gồm việc mượn chén đĩa, ly tách, than cồn, bếp nướng, dụng cụ phục vụ cho tiệc BBQ và dọn dẹp sau khi tiệc kết thúc và 2 dĩa trái cây kèm theo</p><p>- Thông thường giờ check in là 14h và giờ check out là 12h trưa</p><p>- Việc check in sớm hay checkout trễ sẽ phụ thuộc vào lượng phòng ngày hôm đó sẽ như thế nào để sắp xếp cho tiện cả 2 bên</p><p>- Trước giờ check-in từ 1 - 3 tiếng sẽ phụ thu phí 150.000 VNĐ cho một phòng và 50% tiền phòng nếu check-in sớm hơn từ 3 tiếng trở đi</p><p>- Dựa vào mốc thời gian từ giờ check-out là 12h trưa cho đến trước 5h chiều, Rice River Villa Hội An sẽ phụ thu 50% tiền phòng và 100% tiền phòng nếu khách check-out sau 5h chiều</p><p>- Địa điểm đỗ xe ô tô/xe máy: Rice River Villa Hội An có khoảng sân rộng rãi có thể đậu đỗ xe máy và một khoảng sân cộng đồng free để đậu đỗ oto qua đêm</p>",
+      "price": 1000000,
+      "additional_guests": 200000,
+      "weekend_price": 1100000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/aSuYTby.jpg",
+      "cityId": 8
+    },
+    {
+      "id": 801,
+      "rating": 5,
+      "roomType": "Phòng riêng",
+      "review_count": 1,
+      "category": "BIỆT THỰ",
+      "name": "Magnolia room - Phòng đôi có ban công nhìn xuống hồ bơi và vườn hoa tuyệt đẹp",
+      "address": "Hội An, Quảng Nam, Vietnam",
+      "area": 20,
+      "guests": 2,
+      "maximum_guests": 3,
+      "size": "3 khách · 1 phòng ngủ · 1 phòng tắm",
+      "detail": "<p><strong>Hội An Aroma Villa - Magnolia Room </strong>có diện tích 20m2 nằm trong một Villa tuyệt đẹp rộng 400m2. Đầy đủ các trang thiết bị tiện nghi hiện đạị với cửa lớn và ban công nhìn ra hồ bơi và vườn hoa. Chúng tôi rất thân thiện, giao tiếp tiếng Anh tốt và sống trong Villa nên dễ dàng hỗ trợ khách.</p><br><p>Các bữa ăn và đồ uống sẽ được phục vụ với giá thấp. Chỉ cần 280.000 VNĐ (12 USD) cho dịch vụ đón tại sân bay. Các tour du lịch được cung cấp với giá thấp.</p><br><p>Hội An Aroma Villa rất đẹp, thanh tĩnh, yên bình với <strong>hồ bơi ngoài trời </strong>và vườn hoa hồng, giao thông rất dễ dàng. Chỉ cách phố đi bộ Hội An, Bãi biển Hamy, Bãi biển An Bàng 4km và các điểm tham quan khác của Hội An.</p>",
+      "rule": "<p>- Xuất trình giấy tờ hợp lệ khi nhận phòng (hộ chiếu, chứng minh thư còn hạn sử dụng)</p><p>- Không tiếp khách lạ, không hút thuốc lá và ăn uống trong phòng ngủ, nếu cần xin mời sử dụng phòng khách hoặc sân vườn</p><p>- Khách không đăng ký không được ở lại sau 10 pm. Không tổ chức tiệc tùng nếu không được phép của chúng tôi</p><p>- Không tự ý thay đổi, di chuyển vị trí các đồ vật trong phòng, không mang đồ đạc từ phòng này sang phòng khác</p><p>- Không đánh bạc, sử dụng chất kích thích, ma túy, không sử dụng thiết bị điện công suất cao trong phòng, không mang vũ khí, chất độc, chất thải nguy hiểm</p><p>- Khách tự quản lý các tài sản quý giá của mình như tiền, điện thoại, máy tính, trang sức vàng bạc đá quý. Nếu cần thiết xin gửi cho lễ tân giữ miễn phí, chúng tôi không chịu trách nhiệm đối với mất mát hoặc hư hỏng của những tài sản nói trên</p><p>- Khách cần thông báo cho chúng tôi để kiểm tra phòng trước khi check out, khách phải bồi thường cho chúng tôi các hư hỏng, mất mát do mình gây ra và chi phí làm sạch phòng, chăn ga giường, khăn tắm... nếu gây ra các vết bẩn quá nghiêm trọng không xử lý được.</p>",
+      "price": 478759,
+      "additional_guests": 143628,
+      "weekend_price": 550573,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/5A2tJjO.jpg",
+      "cityId": 8
+    },
+    {
+      "id": 802,
+      "rating": 5,
+      "roomType": "Phòng riêng",
+      "review_count": 3,
+      "category": "NHÀ RIÊNG",
+      "name": "The 1993 Hoi An / Deluxe Double Room with Pool",
+      "address": "Hội An, Quảng Nam, Vietnam",
+      "area": 18,
+      "guests": 2,
+      "maximum_guests": 3,
+      "size": "3 khách · 1 phòng ngủ · 1 phòng tắm",
+      "detail": "<p>Chào mừng bạn đến nhà 1993 của chúng tôi!</p><br><p>Cho dù bạn đang tìm kiếm một nơi để ở trong khi khám phá thành phố xinh đẹp của chúng tôi - Hội An hay chỉ là một nơi để thư giãn và tận hưởng thời gian của bạn, bạn chắc chắn sẽ hài lòng bởi ngôi nhà ấm áp, hiện đại và mới được cải tạo của chúng tôi.</p><br><p>Địa điểm của chúng tôi nằm ở vị trí lý tưởng chỉ cách phố cổ 700m và cách bãi biển An Bàng 3km. Bạn có thể dễ dàng đi bộ 10 phút đến thị trấn hoặc làm cho nó dễ dàng hơn bằng cách đi xe đạp hoặc gọi taxi. Các nhà hàng, cửa hàng và quán cà phê đều ở xung quanh và chỉ trong khoảng cách đi bộ.</p><br><p>Nơi này là hoàn toàn mới và có một hồ bơi đẹp và một nhà bếp đầy đủ tiện nghi mở ra để sử dụng bất cứ lúc nào. Wi-fi miễn phí &amp; không giới hạn và khu vực đỗ xe rộng rãi cũng được cung cấp.</p><br><p>Dịch vụ đón và trả khách tại sân bay được cung cấp theo yêu cầu.</p><br><p>Chúng tôi là một cặp vợ chồng mới cưới, luôn sẵn sàng nói chuyện và sẵn sàng giúp đỡ mọi vấn đề của bạn. Chúng tôi muốn bạn có thời gian tốt nhất tại nhà của chúng tôi và trải nghiệm tuyệt vời tại Hội An. Vì vậy, hãy đến và tận hưởng thời gian của bạn với chúng tôi!</p>",
+      "rule": "<ul><li>Thời gian nhận phòng là từ 2 giờ chiều và thời gian trả phòng là 12 giờ Tuy nhiên, chúng tôi có thể linh hoạt tùy thuộc vào công suất phòng và phụ phí có thể được áp dụng.</li><li>Thời gian giữ im lặng trước 8 giờ sáng và sau 10 giờ tối.</li><li>Không được mang vật nuôi vào Homestay..</li><li>Không được hút thuốc lá trong Hometay.</li><li>Không đi giày vào trong Homestay.</li></ul>",
+      "price": 399000,
+      "additional_guests": 50000,
+      "weekend_price": 420000,
+      "maximum_stay": 30,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/zI187VP.jpg",
+      "cityId": 8
+    }
+  ],
+  "listImgUrl": [
+    {
+      "id": 1001,
+      "Url": "https://i.imgur.com/LYOQwGH.jpg",
+      "roomId": 100
+    },
+    {
+      "id": 1002,
+      "Url": "https://i.imgur.com/m1iwNFS.jpg",
+      "roomId": 100
+    },
+    {
+      "id": 1003,
+      "Url": "https://i.imgur.com/NpImxmF.jpg",
+      "roomId": 100
+    },
+    {
+      "id": 1004,
+      "Url": "https://i.imgur.com/mXxMDua.jpg",
+      "roomId": 100
+    },
+    {
+      "id": 1005,
+      "Url": "https://i.imgur.com/N7UezTA.jpg",
+      "roomId": 100
+    },
+    {
+      "id": 1006,
+      "Url": "https://i.imgur.com/X6bHoTU.jpg",
+      "roomId": 101
+    },
+    {
+      "id": 1007,
+      "Url": "https://i.imgur.com/ej463PV.jpg",
+      "roomId": 101
+    },
+    {
+      "id": 1008,
+      "Url": "https://i.imgur.com/kc3xsHd.jpg",
+      "roomId": 101
+    },
+    {
+      "id": 1009,
+      "Url": "https://i.imgur.com/mLNLqBd.jpg",
+      "roomId": 101
+    },
+    {
+      "id": 1010,
+      "Url": "https://i.imgur.com/vUcVfUy.jpg",
+      "roomId": 101
+    },
+    {
+      "id": 1011,
+      "Url": "https://i.imgur.com/mut8R80.jpg",
+      "roomId": 102
+    },
+    {
+      "id": 1012,
+      "Url": "https://i.imgur.com/OdKXdfZ.jpg",
+      "roomId": 102
+    },
+    {
+      "id": 1013,
+      "Url": "https://i.imgur.com/lG2gOIy.jpg",
+      "roomId": 102
+    },
+    {
+      "id": 1014,
+      "Url": "https://i.imgur.com/SRQgnPT.jpg",
+      "roomId": 102
+    },
+    {
+      "id": 1015,
+      "Url": "https://i.imgur.com/MvrUpkz.jpg",
+      "roomId": 102
+    },
+    {
+      "id": 1016,
+      "Url": "https://i.imgur.com/2Xv65MY.jpg",
+      "roomId": 103
+    },
+    {
+      "id": 1017,
+      "Url": "https://i.imgur.com/0puTjR2.jpg",
+      "roomId": 103
+    },
+    {
+      "id": 1018,
+      "Url": "https://i.imgur.com/MzJpjJM.jpg",
+      "roomId": 103
+    },
+    {
+      "id": 1019,
+      "Url": "https://i.imgur.com/So00qlc.jpg",
+      "roomId": 103
+    },
+    {
+      "id": 1020,
+      "Url": "https://i.imgur.com/ERndeGl.jpg",
+      "roomId": 103
+    },
+    {
+      "id": 1021,
+      "Url": "https://i.imgur.com/ww2h7Yy.jpg",
+      "roomId": 104
+    },
+    {
+      "id": 1022,
+      "Url": "https://i.imgur.com/EUuHZC6.jpg",
+      "roomId": 104
+    },
+    {
+      "id": 1023,
+      "Url": "https://i.imgur.com/m6CDDnF.jpg",
+      "roomId": 104
+    },
+    {
+      "id": 1024,
+      "Url": "https://i.imgur.com/GeNwPXM.jpg",
+      "roomId": 104
+    },
+    {
+      "id": 1025,
+      "Url": "https://i.imgur.com/GV0Krpy.jpg",
+      "roomId": 104
+    },
+    {
+      "id": 2001,
+      "Url": "https://i.imgur.com/2EuuSdd.jpg",
+      "roomId": 200
+    },
+    {
+      "id": 2002,
+      "Url": "https://i.imgur.com/2ikYqg5.jpg",
+      "roomId": 200
+    },
+    {
+      "id": 2003,
+      "Url": "https://i.imgur.com/IjionJ7.jpg",
+      "roomId": 200
+    },
+    {
+      "id": 2004,
+      "Url": "https://i.imgur.com/M1W1BPe.jpg",
+      "roomId": 200
+    },
+    {
+      "id": 2005,
+      "Url": "https://i.imgur.com/CsqxyHZ.jpg",
+      "roomId": 200
+    },
+    {
+      "id": 2006,
+      "Url": "https://i.imgur.com/nFR9by0.jpg",
+      "roomId": 201
+    },
+    {
+      "id": 2007,
+      "Url": "https://i.imgur.com/tLjd0Fx.jpg",
+      "roomId": 201
+    },
+    {
+      "id": 2008,
+      "Url": "https://i.imgur.com/Dapq4vu.jpg",
+      "roomId": 201
+    },
+    {
+      "id": 2009,
+      "Url": "https://i.imgur.com/vOxlQUB.jpg",
+      "roomId": 201
+    },
+    {
+      "id": 2010,
+      "Url": "https://i.imgur.com/B9TZ4C4.jpg",
+      "roomId": 201
+    },
+    {
+      "id": 3001,
+      "Url": "https://i.imgur.com/CxkPXkt.jpg",
+      "roomId": 300
+    },
+    {
+      "id": 3002,
+      "Url": "https://i.imgur.com/LHh7g6m.jpg",
+      "roomId": 300
+    },
+    {
+      "id": 3003,
+      "Url": "https://i.imgur.com/disbyZ2.jpg",
+      "roomId": 300
+    },
+    {
+      "id": 3004,
+      "Url": "https://i.imgur.com/kzBpk4n.jpg",
+      "roomId": 300
+    },
+    {
+      "id": 3005,
+      "Url": "https://i.imgur.com/3KvxJ81.jpg",
+      "roomId": 300
+    },
+    {
+      "id": 3006,
+      "Url": "https://i.imgur.com/telaXHT.jpg",
+      "roomId": 301
+    },
+    {
+      "id": 3007,
+      "Url": "https://i.imgur.com/m20KPVK.jpg",
+      "roomId": 301
+    },
+    {
+      "id": 3008,
+      "Url": "https://i.imgur.com/A1JJmNk.jpg",
+      "roomId": 301
+    },
+    {
+      "id": 3009,
+      "Url": "https://i.imgur.com/JTM1VE5.jpg",
+      "roomId": 301
+    },
+    {
+      "id": 3010,
+      "Url": "https://i.imgur.com/rAyr1wH.jpg",
+      "roomId": 301
+    },
+    {
+      "id": 3011,
+      "Url": "https://i.imgur.com/kzZImKv.jpg",
+      "roomId": 302
+    },
+    {
+      "id": 3012,
+      "Url": "https://i.imgur.com/9E4c8FK.jpg",
+      "roomId": 302
+    },
+    {
+      "id": 3013,
+      "Url": "https://i.imgur.com/tf3PuME.jpg",
+      "roomId": 302
+    },
+    {
+      "id": 3014,
+      "Url": "https://i.imgur.com/dgVSSbH.jpg",
+      "roomId": 302
+    },
+    {
+      "id": 3015,
+      "Url": "https://i.imgur.com/dkAZk1A.jpg",
+      "roomId": 302
+    },
+    {
+      "id": 4001,
+      "Url": "https://i.imgur.com/XAOWg5u.jpg",
+      "roomId": 400
+    },
+    {
+      "id": 4002,
+      "Url": "https://i.imgur.com/AX1Zkzv.jpg",
+      "roomId": 400
+    },
+    {
+      "id": 4003,
+      "Url": "https://i.imgur.com/OlAwSDR.jpg",
+      "roomId": 400
+    },
+    {
+      "id": 4004,
+      "Url": "https://i.imgur.com/GwRtBAK.jpg",
+      "roomId": 400
+    },
+    {
+      "id": 4005,
+      "Url": "https://i.imgur.com/opkDGHR.jpg",
+      "roomId": 400
+    },
+    {
+      "id": 4006,
+      "Url": "https://i.imgur.com/4cgaHmB.jpg",
+      "roomId": 401
+    },
+    {
+      "id": 4007,
+      "Url": "https://i.imgur.com/26vF0FI.jpg",
+      "roomId": 401
+    },
+    {
+      "id": 4008,
+      "Url": "https://i.imgur.com/pWjgLWq.jpg",
+      "roomId": 401
+    },
+    {
+      "id": 4009,
+      "Url": "https://i.imgur.com/d1pIrVf.jpg",
+      "roomId": 401
+    },
+    {
+      "id": 4010,
+      "Url": "https://i.imgur.com/d8Ru65c.jpg",
+      "roomId": 401
+    },
+    {
+      "id": 4011,
+      "Url": "https://i.imgur.com/UEjSzkF.jpg",
+      "roomId": 402
+    },
+    {
+      "id": 4012,
+      "Url": "https://i.imgur.com/MZCOsVl.jpg",
+      "roomId": 402
+    },
+    {
+      "id": 4013,
+      "Url": "https://i.imgur.com/eGZwZU5.jpg",
+      "roomId": 402
+    },
+    {
+      "id": 4014,
+      "Url": "https://i.imgur.com/eCVn6cd.jpg",
+      "roomId": 402
+    },
+    {
+      "id": 4015,
+      "Url": "https://i.imgur.com/88dk22M.jpg",
+      "roomId": 402
+    },
+    {
+      "id": 4016,
+      "Url": "https://i.imgur.com/ke8jRIN.jpg",
+      "roomId": 403
+    },
+    {
+      "id": 4017,
+      "Url": "https://i.imgur.com/bGThg1k.jpg",
+      "roomId": 403
+    },
+    {
+      "id": 4018,
+      "Url": "https://i.imgur.com/Fvju3hk.jpg",
+      "roomId": 403
+    },
+    {
+      "id": 4019,
+      "Url": "https://i.imgur.com/tEZwb4o.jpg",
+      "roomId": 403
+    },
+    {
+      "id": 4020,
+      "Url": "https://i.imgur.com/eNWDeG4.jpg",
+      "roomId": 403
+    },
+    {
+      "id": 5001,
+      "Url": "https://i.imgur.com/PUwtVxM.png",
+      "roomId": 500
+    },
+    {
+      "id": 5002,
+      "Url": "https://i.imgur.com/CULoZ3G.png",
+      "roomId": 500
+    },
+    {
+      "id": 5003,
+      "Url": "https://i.imgur.com/x82rzRE.png",
+      "roomId": 500
+    },
+    {
+      "id": 5004,
+      "Url": "https://i.imgur.com/W5b0KGB.jpg",
+      "roomId": 500
+    },
+    {
+      "id": 5005,
+      "Url": "https://i.imgur.com/rfLpomt.jpg",
+      "roomId": 500
+    },
+    {
+      "id": 5006,
+      "Url": "https://i.imgur.com/5yxCwxy.jpg",
+      "roomId": 501
+    },
+    {
+      "id": 5007,
+      "Url": "https://i.imgur.com/pb5zzKB.jpg",
+      "roomId": 501
+    },
+    {
+      "id": 5008,
+      "Url": "https://i.imgur.com/CLjuZNU.jpg",
+      "roomId": 501
+    },
+    {
+      "id": 5009,
+      "Url": "https://i.imgur.com/8g6NqKo.jpg",
+      "roomId": 501
+    },
+    {
+      "id": 5010,
+      "Url": "https://i.imgur.com/pCGGIpJ.jpg",
+      "roomId": 501
+    },
+    {
+      "id": 5011,
+      "Url": "https://i.imgur.com/Qlve0xj.jpg",
+      "roomId": 502
+    },
+    {
+      "id": 5012,
+      "Url": "https://i.imgur.com/YyVeOeZ.jpg",
+      "roomId": 502
+    },
+    {
+      "id": 5013,
+      "Url": "https://i.imgur.com/tZB1W23.jpg",
+      "roomId": 502
+    },
+    {
+      "id": 5014,
+      "Url": "https://i.imgur.com/9M88AU9.jpg",
+      "roomId": 502
+    },
+    {
+      "id": 5015,
+      "Url": "https://i.imgur.com/ZgaOjYG.jpg",
+      "roomId": 502
+    },
+    {
+      "id": 5016,
+      "Url": "https://i.imgur.com/P6kPov8.jpg",
+      "roomId": 503
+    },
+    {
+      "id": 5017,
+      "Url": "https://i.imgur.com/pZhWHkW.jpg",
+      "roomId": 503
+    },
+    {
+      "id": 5018,
+      "Url": "https://i.imgur.com/pwhOzQ4.jpg",
+      "roomId": 503
+    },
+    {
+      "id": 5019,
+      "Url": "https://i.imgur.com/uWU2NA0.jpg",
+      "roomId": 503
+    },
+    {
+      "id": 5020,
+      "Url": "https://i.imgur.com/71kXZeJ.jpg",
+      "roomId": 503
+    },
+    {
+      "id": 5021,
+      "Url": "https://i.imgur.com/L9g2rGc.jpg",
+      "roomId": 504
+    },
+    {
+      "id": 5022,
+      "Url": "https://i.imgur.com/7qNGxzo.jpg",
+      "roomId": 504
+    },
+    {
+      "id": 5023,
+      "Url": "https://i.imgur.com/pPkUr80.jpg",
+      "roomId": 504
+    },
+    {
+      "id": 5024,
+      "Url": "https://i.imgur.com/GCAOKR2.jpg",
+      "roomId": 504
+    },
+    {
+      "id": 5025,
+      "Url": "https://i.imgur.com/6qqzpcr.jpg",
+      "roomId": 504
+    },
+    {
+      "id": 5026,
+      "Url": "https://i.imgur.com/epjZp88.jpg",
+      "roomId": 505
+    },
+    {
+      "id": 5027,
+      "Url": "https://i.imgur.com/ldQd0eC.jpg",
+      "roomId": 505
+    },
+    {
+      "id": 5028,
+      "Url": "https://i.imgur.com/LnbmpRH.jpg",
+      "roomId": 505
+    },
+    {
+      "id": 5029,
+      "Url": "https://i.imgur.com/S8Nc803.jpg",
+      "roomId": 505
+    },
+    {
+      "id": 5030,
+      "Url": "https://i.imgur.com/Pu7DU8c.jpg",
+      "roomId": 505
+    },
+    {
+      "id": 5031,
+      "Url": "https://i.imgur.com/W9ZdpUP.jpg",
+      "roomId": 506
+    },
+    {
+      "id": 5032,
+      "Url": "https://i.imgur.com/XBN3w7a.jpg",
+      "roomId": 506
+    },
+    {
+      "id": 5033,
+      "Url": "https://i.imgur.com/wLuFUdg.jpg",
+      "roomId": 506
+    },
+    {
+      "id": 5034,
+      "Url": "https://i.imgur.com/YzuvpSc.jpg",
+      "roomId": 506
+    },
+    {
+      "id": 5035,
+      "Url": "https://i.imgur.com/JDkfc27.jpg",
+      "roomId": 506
+    },
+    {
+      "id": 6001,
+      "Url": "https://i.imgur.com/sVOYfqi.jpg",
+      "roomId": 600
+    },
+    {
+      "id": 6002,
+      "Url": "https://i.imgur.com/JXkGzqH.jpg",
+      "roomId": 600
+    },
+    {
+      "id": 6003,
+      "Url": "https://i.imgur.com/A5kdLo0.jpg",
+      "roomId": 600
+    },
+    {
+      "id": 6004,
+      "Url": "https://i.imgur.com/0AMP0xE.jpg",
+      "roomId": 600
+    },
+    {
+      "id": 6005,
+      "Url": "https://i.imgur.com/UuxheSJ.jpg",
+      "roomId": 600
+    },
+    {
+      "id": 6006,
+      "Url": "https://i.imgur.com/OabrRVQ.jpg",
+      "roomId": 601
+    },
+    {
+      "id": 6007,
+      "Url": "https://i.imgur.com/VK5Iazz.jpg",
+      "roomId": 601
+    },
+    {
+      "id": 6008,
+      "Url": "https://i.imgur.com/lPpBzE8.jpg",
+      "roomId": 601
+    },
+    {
+      "id": 6009,
+      "Url": "https://i.imgur.com/gKSbMcc.jpg",
+      "roomId": 601
+    },
+    {
+      "id": 6010,
+      "Url": "https://i.imgur.com/iC3T66r.jpg",
+      "roomId": 601
+    },
+    {
+      "id": 6011,
+      "Url": "https://i.imgur.com/7UqY2nr.jpg",
+      "roomId": 602
+    },
+    {
+      "id": 6012,
+      "Url": "https://i.imgur.com/xqAUdv5.jpg",
+      "roomId": 602
+    },
+    {
+      "id": 6013,
+      "Url": "https://i.imgur.com/LviexI2.jpg",
+      "roomId": 602
+    },
+    {
+      "id": 6014,
+      "Url": "https://i.imgur.com/rc0kAaC.jpg",
+      "roomId": 602
+    },
+    {
+      "id": 6015,
+      "Url": "https://i.imgur.com/aRZyRKQ.jpg",
+      "roomId": 602
+    },
+    {
+      "id": 6016,
+      "Url": "https://i.imgur.com/2ePSl9T.jpg",
+      "roomId": 603
+    },
+    {
+      "id": 6017,
+      "Url": "https://i.imgur.com/8IzW1BL.jpg",
+      "roomId": 603
+    },
+    {
+      "id": 6018,
+      "Url": "https://i.imgur.com/nMsyodj.jpg",
+      "roomId": 603
+    },
+    {
+      "id": 6019,
+      "Url": "https://i.imgur.com/bJ8mlO5.jpg",
+      "roomId": 603
+    },
+    {
+      "id": 6020,
+      "Url": "https://i.imgur.com/NMfyhkS.jpg",
+      "roomId": 603
+    },
+    {
+      "id": 7001,
+      "Url": "https://i.imgur.com/yyf8RhW.jpg",
+      "roomId": 700
+    },
+    {
+      "id": 7002,
+      "Url": "https://i.imgur.com/sckhzBK.jpg",
+      "roomId": 700
+    },
+    {
+      "id": 7003,
+      "Url": "https://i.imgur.com/qOT2por.jpg",
+      "roomId": 700
+    },
+    {
+      "id": 7004,
+      "Url": "https://i.imgur.com/IVIpPgT.jpg",
+      "roomId": 700
+    },
+    {
+      "id": 7005,
+      "Url": "https://i.imgur.com/TzQnVGY.jpg",
+      "roomId": 700
+    },
+    {
+      "id": 7006,
+      "Url": "https://i.imgur.com/uTbB6wT.jpg",
+      "roomId": 701
+    },
+    {
+      "id": 7007,
+      "Url": "https://i.imgur.com/gnUAcOu.jpg",
+      "roomId": 701
+    },
+    {
+      "id": 7008,
+      "Url": "https://i.imgur.com/iJjJlhS.jpg",
+      "roomId": 701
+    },
+    {
+      "id": 7009,
+      "Url": "https://i.imgur.com/bkj8bQ7.jpg",
+      "roomId": 701
+    },
+    {
+      "id": 7010,
+      "Url": "https://i.imgur.com/nWDwyDM.jpg",
+      "roomId": 701
+    },
+    {
+      "id": 7011,
+      "Url": "https://i.imgur.com/Aj7O2AS.jpg",
+      "roomId": 702
+    },
+    {
+      "id": 7012,
+      "Url": "https://i.imgur.com/0jA3DsF.jpg",
+      "roomId": 702
+    },
+    {
+      "id": 7013,
+      "Url": "https://i.imgur.com/N9gMroV.jpg",
+      "roomId": 702
+    },
+    {
+      "id": 7014,
+      "Url": "https://i.imgur.com/4NG0TP3.jpg",
+      "roomId": 702
+    },
+    {
+      "id": 7015,
+      "Url": "https://i.imgur.com/3CUCTyq.jpg",
+      "roomId": 702
+    },
+    {
+      "id": 8001,
+      "Url": "https://i.imgur.com/IUrEotx.jpg",
+      "roomId": 800
+    },
+    {
+      "id": 8002,
+      "Url": "https://i.imgur.com/KE3mtP1.jpg",
+      "roomId": 800
+    },
+    {
+      "id": 8003,
+      "Url": "https://i.imgur.com/M63M5Ku.jpg",
+      "roomId": 800
+    },
+    {
+      "id": 8004,
+      "Url": "https://i.imgur.com/vWoxCbh.jpg",
+      "roomId": 800
+    },
+    {
+      "id": 8005,
+      "Url": "https://i.imgur.com/GnNIaYW.jpg",
+      "roomId": 800
+    },
+    {
+      "id": 8006,
+      "Url": "https://i.imgur.com/SMwMQpK.jpg",
+      "roomId": 801
+    },
+    {
+      "id": 8007,
+      "Url": "https://i.imgur.com/GBsXnvO.jpg",
+      "roomId": 801
+    },
+    {
+      "id": 8008,
+      "Url": "https://i.imgur.com/TtialYh.jpg",
+      "roomId": 801
+    },
+    {
+      "id": 8009,
+      "Url": "https://i.imgur.com/83s4zDo.jpg",
+      "roomId": 801
+    },
+    {
+      "id": 8010,
+      "Url": "https://i.imgur.com/DyDXa0D.jpg",
+      "roomId": 801
+    },
+    {
+      "id": 8011,
+      "Url": "https://i.imgur.com/yq3Cwiv.jpg",
+      "roomId": 802
+    },
+    {
+      "id": 8012,
+      "Url": "https://i.imgur.com/Ve0cPOg.jpg",
+      "roomId": 802
+    },
+    {
+      "id": 8013,
+      "Url": "https://i.imgur.com/P5ZSRjn.jpg",
+      "roomId": 802
+    },
+    {
+      "id": 8014,
+      "Url": "https://i.imgur.com/mGE7mqd.jpg",
+      "roomId": 802
+    },
+    {
+      "id": 8015,
+      "Url": "https://i.imgur.com/9PQxErM.jpg",
+      "roomId": 802
+    }
+  ]
+}
