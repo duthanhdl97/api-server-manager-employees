@@ -18,20 +18,18 @@ function createToken(payload) {
 
 function isAuthenticated({ email, password }) {
   return (
-    JSON.parse(fs.readFileSync('./users.json', 'UTF-8')).users.findIndex(
+    JSON.parse(fs.readFileSync('./users.json', 'UTF-8')).user.findIndex(
       (user) => user.email === email && user.password === password
     ) !== -1
   );
 }
 
 server.post('/auth/register', (req, res) => {
-  console.log('register endpoint called; request body:');
-  console.log(req.body);
-  const { email, password, username } = req.body;
+  const { email, phone, lastName, firstName, password } = req.body;
 
   if (isAuthenticated({ email, password }) === true) {
     const status = 401;
-    const message = 'Email already exist';
+    const message = 'Email đã được đăng ký !';
     res.status(status).json({ status, message });
     return;
   }
@@ -45,13 +43,15 @@ server.post('/auth/register', (req, res) => {
     }
 
     var data = JSON.parse(data.toString());
-    var last_item_id = data.users[data.users.length - 1].id;
+    var last_item_id = data.user[data.user.length - 1].id;
 
-    data.users.push({
+    data.user.push({
       id: last_item_id + 1,
       email: email,
+      phone: phone,
+      lastName: lastName,
+      firstName: firstName,
       password: password,
-      username: username,
     });
     fs.writeFile('./users.json', JSON.stringify(data), (err, result) => {
       if (err) {
@@ -62,25 +62,21 @@ server.post('/auth/register', (req, res) => {
       }
     });
   });
-
-  const access_token = createToken({ email, password });
-  console.log('Access Token:' + access_token);
-  res.status(200).json({ access_token });
+  const accessToken = createToken({ email, password });
+  console.log('Access Token:' + accessToken);
+  res.status(200).json({ accessToken });
 });
 
 server.post('/auth/login', (req, res) => {
-  console.log('login endpoint called; request body:');
-  console.log(req.body);
   const { email, password } = req.body;
   if (isAuthenticated({ email, password }) === false) {
     const status = 401;
-    const message = 'Incorrect email or password';
+    const message = 'Email hoặc mật khẩu không đúng';
     res.status(status).json({ status, message });
     return;
   }
-  const access_token = createToken({ email, password });
-  console.log('Access Token:' + access_token);
-  res.status(200).json({ access_token });
+  const accessToken = createToken({ email, password });
+  res.status(200).json({ accessToken });
 });
 
 server.use(router);
