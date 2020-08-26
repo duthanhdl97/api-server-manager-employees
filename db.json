@@ -189,6 +189,32 @@
       "cityId": 1
     },
     {
+      "id": 105,
+      "rating": 5,
+      "roomType": "Nguyên căn",
+      "review_count": 1,
+      "category": "BIỆT THỰ",
+      "name": "✦ Luxury Villa 6BR ✦Thao Dien Dist 2✦Bathtub✦Big yard✦Sai Gon River View _[Sweethost]",
+      "address": "Quận 2, Hồ Chí Minh, Vietnam",
+      "area": 500,
+      "guests": 12,
+      "maximum_guests": 16,
+      "size": "16 khách · 6 phòng ngủ · 8 phòng tắm",
+      "size_detail": "8 phòng tắm · 6 giường · 6 phòng ngủ",
+      "detail": "<p><strong>✦Luxury Villa 6BR✦Bathtub✦Big yard✦Sai Gon River View [Sweethost] </strong>là một biệt thự yên tĩnh nằm trong khu biệt thự Thảo Điền, quận 02, với 06 phòng ngủ hiện đại, 02 ghế sofa và 02 đệm phụ, đủ cho những nhóm bạn hay gia đình từ 16 khách, và luôn tràn ngập ánh sáng từ rất nhiều những khung cửa sổ và ban công rộng.</p><br><p><strong>Tiện ích của villa:</strong></p><br><p>- Tầng 1 bao gồm 01phòng khách có view trực diện ra sân vườn rộng với rất nhiều cây xanh và hồ sen thơ mộng, 01 phòng bếp đầy đủ tiện nghi (bếp từ, tủ lạnh, nồi cơm điện, lò vi sóng và bát đũa…) để du khách có thể tổ chức một bữa tiệc lớn bên gia đình, bạn bè. Đồng thời, du khách có thể sử dụng thang máy hoặc thang máy tại tầng 1 để di chuyển lên các tầng phía trên.</p><br><p>- Tầng 2 của villa được thiết kế rất đặc biệt với 02 phòng ngủ, 02 nhà vệ sinh được thiết kế chủ yếu bằng kính thu hút rất nhiều ánh sáng và view trực diện ra sông Sài Gòn. Ngoài ra, tầng 2 còn có 01 khu vực chung với sofa và TV lớn để mọi người có thể quây quần hát karaoke, xem Netflix hoặc trò chuyện với nhau.</p><br><p>- Tầng 3 của villa cũng có 03 phòng ngủ lớn với 02 nhà vệ sinh, có ban công lớn nhìn ra sông Sài Gòn. Mỗi buổi sáng sớm hay chiều tà, nhâm nhi một tách trà hay café, đọc một cuốn sách sẽ thật là thú vị.</p><br><p>- Tầng 4 của villa có 01 phòng ngủ lớn được bao bọc xung quanh bởi kính nên mỗi buổi sáng thức dậy đều tạo cảm giác khoan khoái chào đón một ngày mới cho du khách.</p><br><p>- Đặc biệt <strong>✦Luxury Villa 6BR✦Bathtub✦Big yard✦Sai Gon River View [Sweethost] </strong>còn có một&nbsp;<strong>không gian sân ngoài trời, rất thích hợp để các nhóm bạn, gia đình tổ chức tiệc nướng&nbsp;</strong>hay trò chuyện thư giãn.</p><br><p>-Thời gian chủ nhà hỗ trợ check in muộn nhất là: 20:00</p><p>&nbsp;</p>",
+      "rule": "<p>Khách hàng cần gửi lại ảnh CMND hoặc passport trước khi check in. Đồng thời khách hàng phải đặt cọc 50% giá trị đặt phòng cho chủ nhà, sau khi check out, kiểm tra tài sản đảm bảo chủ nhà sẽ chuyển khoản lại số tiền này cho khách hàng.</p><p><strong><em>Trong trường hợp khách hàng tổ chức tiệc/ sự kiện: giá trị  khoản cọc là 100% giá trị đặt phòng.</em></strong></p>",
+      "price": 7020000,
+      "additional_guests": 0,
+      "weekend_price": 8400000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/wzz7o7U.jpg",
+      "cityId": 1
+    },
+    {
       "id": 200,
       "rating": 4.9,
       "roomType": "Phòng riêng",
@@ -238,6 +264,32 @@
       "checkout_time": "12:00 pm",
       "currency": "VND",
       "imgUrl": "https://i.imgur.com/RTiQwB7.jpg",
+      "cityId": 2
+    },
+    {
+      "id": 202,
+      "rating": 5,
+      "roomType": "Nguyên căn",
+      "review_count": 4,
+      "category": "CĂN HỘ DỊCH VỤ · VŨNG TÀU MELODY",
+      "name": "Min House #3 - Spacious and Luxury",
+      "address": "Vũng Tàu, Bà Rịa Vũng Tàu, Vietnam",
+      "area": 75,
+      "guests": 6,
+      "maximum_guests": 10,
+      "size": "10 khách · 2 phòng ngủ · 2 phòng tắm",
+      "size_detail": "2 phòng tắm · 3 giường · 2 phòng ngủ",
+      "detail": "<p><strong>Min Home</strong> là căn hộ mới với thiết kế hiện đại, hiện đại nằm ở trung tâm của Vũng Tàu - MELODY Apartment, cách Bãi Sau 3 phút đi bộ, Chợ Xóm Lưới, Chợ đêm, Highland Coffee, VinMart.</p><br><ul><li><p>Căn hộ dành cho 4-10 người ở vẫn rộng rãi và thoải mái, đặc biệt rất sạch sẽ.</p></li><br><li><p>Căn hộ ấm cúng này sẽ là nơi hoàn hảo cho kỳ nghỉ dưỡng với gia đình của bạn sẽ thật đáng nhớ tại thành phố Vũng Tàu.</p></li><br><li><p>Chúng tôi cẩn thận thiết kế nơi này chỉ nhằm mục đích cho khách hàng thư giãn và nạp năng lượng sau thời gian làm việc mệt mỏi.</p></li></ul><br><p><strong>Không gian</strong></p><br><p>Không gian rộng lớn và vừa được cải tạo hoàn toàn, được thiết kế và trang bị theo tiêu chuẩn rất cao. Nó được trang trí đầy phong cách với đồ nội thất hiện đại để cung cấp một cái nhìn ấm áp độc đáo. Nội thất công nghiệp hiện đại với tình yêu đến từng chi tiết.</p><br><p>+ Vị trí căn hộ toạ lạc tại một trong những tòa nhà dân cư cao cấp nhất của Vũng Tàu</p><br><p><strong>Đừng bao giờ so sanh nguyên căn hộ đầy đủ tiện nghi và khách sạn, vì sao thế ???</strong></p><br><p><strong>Căn hộ chúng tôi luôn có:</strong></p><br><p><strong>-</strong>Phòng khách: nơi sinh hoạt cho gia đình và vui chơi của trẻ nhỏ.</p><br><p>- Phòng ngủ: 2 phòng ngủ có giường cỡ lớn và khăn tắm được cung cấp.</p><br><p>- Phòng tắm (2 phòng tắm) : dầu gội, dầu xả, sữa tắm, bàn chải đánh răng &amp; kem đánh răng, tăm bông, giấy vệ sinh, máy sấy tóc, gel rửa tay.</p><br><p>- Ghế sofa</p><br><p>- Truyền hình cáp (kênh tiếng Anh và tiếng Việt).</p><br><p>- Bàn ăn: thìa, dĩa, dao, đĩa, bát, đũa, ly.</p><br><p>- Bếp: nồi cơm điện, dầu ăn, gia vị, tủ lạnh, dụng cụ nhà bếp.</p><br><p>- Điều hòa</p><br><p><strong>Tiện nghi khác:</strong></p><br><p>• Kết nối wifi tốc độ cao miễn phí</p><br><p>• Điều hòa không khí cho toàn bộ ngôi nhà</p><br><p>• Dịch vụ taxi tại cửa</p><br><p>• Xây dựng và truy cập nhà 24/7</p><br><p>• Ban công nhìn ra biển</p><br><p><strong>Ban được phép sử dụng căn hộ như chính nhà mình</strong></p><br><p>- Bạn có bất cứ thắc mắc hay gặp khó khăn đều có thể liên lạc với tôi qua điện thoại, SMS, email, viber, chúng tôi sẽ cố gắng trả lời bạn sớm</p><br><p>+ Tôi vui lòng chia sẻ bất kỳ thông tin hoặc kinh nghiệm nào có thể giúp bạn có một thời gian nghỉ dưỡng tuyệt vời ở Vũng Tàu. Hãy cho tôi biết nếu bạn cần bất cứ thứ gì.</p><br><p>- Tôi sẽ đón bạn từ bên ngoài tòa nhà để chào đón bạn đến căn hộ.</p>",
+      "rule": "<p>Không hút thuốc</p><p>Không sử dụng các chất kích thích, văn hoá phẩm đồi truỵ</p><p>Không mang theo vật nuôi</p><p>Không tổ chức tiệc.</p><p>Vui lòng giữ im lặng sau 22h đêm</p><p>Vui lòng tắt điện khi bạn rời khỏi khu lưu trú</p>",
+      "price": 500000,
+      "additional_guests": 120000,
+      "weekend_price": 2000000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/uDtje6X.jpg",
       "cityId": 2
     },
     {
@@ -316,6 +368,32 @@
       "checkout_time": "12:00 pm",
       "currency": "VND",
       "imgUrl": "https://i.imgur.com/c3y56qZ.jpg",
+      "cityId": 3
+    },
+    {
+      "id": 303,
+      "rating": 5,
+      "roomType": "Nguyên căn",
+      "review_count": 1,
+      "category": "NHÀ RIÊNG",
+      "name": "Anna Sweet Home 153",
+      "address": "Sơn Trà, Đà Nẵng, Vietnam",
+      "area": 100,
+      "guests": 8,
+      "maximum_guests": 13,
+      "size": "13 khách · 4 phòng ngủ · 3 phòng tắm",
+      "size_detail": "3 phòng tắm · 6 giường · 4 phòng ngủ",
+      "detail": "<p>Hi, thank you interest in our house, we are happy to welcome you here</p><br><p>Our place is in a good security and quiet area, suitable for foreigners and has easy access to many amenities:</p><br><p>-2'Mins to go to the main of MyKhe Beach</p><br><p>-10'Mins to drive to the Airport and city central</p><br><p>-7'Mins drive to the Han river</p><br><p>-The best place for city nightlife</p><br><p>-Many restaurants, coffee shops, and convenient stores nearby</p><br><p>You can late CO or early CI if our house entry</p><br><p>We will free pick up even you stay only 1 night</p><br><p>My house have 3 floor and 4 bedroom as below:</p><br><ul><li>The first floor: a living room, a kitchen room, a bathroom</li><br><li>The second floor: a bathroom, 2 bedroom</li></ul><br><p>BR1: 1 bed 1,8m with balcony</p><br><p>BR2: 1 bed 1,6m with balcony</p><br><ul><li>The thirst floor: a bathroom and laundry room and 2 bedroom</li></ul><br><p>BR3: 2 bed 1,6m with window</p><br><p>BR4: 1 bed 1,4m and 1 bed 1,2m with balcony</p>",
+      "rule": "<p>Giờ check in thông thường 14h00, giờ check out là 12h00. Tuy nhiên tùy tình trạng phòng trống chúng tôi có thể cho khách in sớm hoặc out trễ. Nếu thời gian in sớm/out trễ &gt;3h chúng tôi có thể thu phụ phí</p><p>******<strong>Hãy coi căn hộ của tôi như nhà của bạn</strong>********</p><p>·Hãy tắt các thiết bị điện &amp; nước khi không sử dụng hoặc ra khỏi phòng</p><p>·Giữ vệ sinh căn hộ sạch sẽ</p><p>·Không ồn ào sau 10 giờ tối</p><p>·Không sử dụng các chất cấm và các hành vi vi phạm pháp luật khác</p><p>·Nếu bạn có các sự kiện / bữa tiệc, vui lòng thảo luận với tôi trước</p>",
+      "price": 1000000,
+      "additional_guests": 150000,
+      "weekend_price": 1200000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/b4ZRikz.jpg",
       "cityId": 3
     },
     {
@@ -420,6 +498,32 @@
       "checkout_time": "12:00 pm",
       "currency": "VND",
       "imgUrl": "https://i.imgur.com/ROGec9v.jpg",
+      "cityId": 4
+    },
+    {
+      "id": 404,
+      "rating": 5,
+      "roomType": "Nguyên căn",
+      "review_count": 5,
+      "category": "NHÀ RIÊNG",
+      "name": "Jun's House",
+      "address": "Đà Lạt, Lâm Đồng, Vietnam",
+      "area": 230,
+      "guests": 10,
+      "maximum_guests": 15,
+      "size": "15 khách · 5 phòng ngủ · 4 phòng tắm",
+      "size_detail": "4 phòng tắm · 5 giường · 5 phòng ngủ",
+      "detail": "<p><strong>Jun's House </strong>là căn nhà rộng hơn 200m2 nằm trên đường Hùng Vương - tuyến đường xinh đẹp và nhiều quán coffee và điểm du lịch bậc nhất Đà Lạt.</p><br><p>Jun's House cách trung tâm thành phố 2km, trong khu yên tĩnh, rất thích hợp cho nhóm bạn trẻ, gia đình cần sự riêng tư và môi trường sống đầy đủ tiện nghi.</p><br><p><strong>Tiện nghi :</strong></p><br><p>- Nằm gần những quán coffee và điểm ăn chơi nổi tiếng như: The Married Beans, Ma's milktea &amp; gelato, <span>Nông trại vui vẻ Sunny Farm Cafe, Dinh I và rất nhiều điểm du lịch xung quanh</span></p><br><p>- Nằm trên đường Hùng Vương tuyến đường đi đồi chè Cầu Đất và Chùa Linh Phước</p><br><p>- Tiện lợi di chuyển đến các địa điểm du lịch của thành phố</p><br><p>- Cách Hồ Xuân Hương khoảng 2km, Cách hồ Than Thở khoảng 2km</p><br><p><strong>Tiện ích :</strong></p><br><p>- Đồ nội thất đầy đủ</p><br><p>- TV 65 inch, bếp điện, bếp ga, chén dĩa, ly tách, bàn ăn, Sofa,...</p><br><p>- 4 phòng tắm tiện lợi</p><br><p>- 5 giường, 1 sofa bed</p><br><p>- Phong cách trang trí ấm cúng với 5 phòng ngủ, không gian sinh hoạt chung gồm bếp, phòng khách, phòng sinh hoạt chung, góc uống trà, sân, khuôn viên xung quanh...</p><br><p>- Chỗ ở của chúng tôi phù hợp với gia đình hoặc nhóm bạn 10 thành viên</p>",
+      "rule": "<p><span>THÔNG TIN CHUNG</span></p><p>-<span>Tọa lạc cách trung tâm thành phố khoảng 2km</span></p><p>-<span>Cách Dinh 1 khoảng 500m</span></p><p>-<span>Cách </span>The Married Beans<span> khoảng 80m</span></p><p>-<span>Cách </span>Ma's milktea &amp; gelato<span> khoảng 80m</span></p><p>-<span>Cách </span>Chùa Linh Phước<span> khoảng 1km</span></p><p><span>-</span><span>Miễn phí truy cập mạng Internet Wifi</span></p><p><span>-</span><span>TV lớn thích hợp cho nhu cầu giải trí chiếu phim của nhóm bạn, gia đình</span></p>",
+      "price": 1700000,
+      "additional_guests": 100000,
+      "weekend_price": 1700000,
+      "maximum_stay": 90,
+      "minimum_stay": 1,
+      "checkin_time": "02:00 pm",
+      "checkout_time": "12:00 pm",
+      "currency": "VND",
+      "imgUrl": "https://i.imgur.com/T4Uc4c3.jpg",
       "cityId": 4
     },
     {
@@ -992,6 +1096,31 @@
       "roomId": 104
     },
     {
+      "id": 1026,
+      "Url": "https://i.imgur.com/wzz7o7U.jpg",
+      "roomId": 105
+    },
+    {
+      "id": 1027,
+      "Url": "https://i.imgur.com/01di2j4.jpg",
+      "roomId": 105
+    },
+    {
+      "id": 1028,
+      "Url": "https://i.imgur.com/piV0F4o.jpg",
+      "roomId": 105
+    },
+    {
+      "id": 1029,
+      "Url": "https://i.imgur.com/GBA8dL6.jpg",
+      "roomId": 105
+    },
+    {
+      "id": 1030,
+      "Url": "https://i.imgur.com/RjsUSdP.jpg",
+      "roomId": 105
+    },
+    {
       "id": 2001,
       "Url": "https://i.imgur.com/2EuuSdd.jpg",
       "roomId": 200
@@ -1040,6 +1169,31 @@
       "id": 2010,
       "Url": "https://i.imgur.com/B9TZ4C4.jpg",
       "roomId": 201
+    },
+    {
+      "id": 2011,
+      "Url": "https://i.imgur.com/EurwiKZ.jpg",
+      "roomId": 202
+    },
+    {
+      "id": 2012,
+      "Url": "https://i.imgur.com/Uqce0Pr.jpg",
+      "roomId": 202
+    },
+    {
+      "id": 2013,
+      "Url": "https://i.imgur.com/kcQZnfD.jpg",
+      "roomId": 202
+    },
+    {
+      "id": 2014,
+      "Url": "https://i.imgur.com/lJtIARU.jpg",
+      "roomId": 202
+    },
+    {
+      "id": 2015,
+      "Url": "https://i.imgur.com/HGjgMri.jpg",
+      "roomId": 202
     },
     {
       "id": 3001,
@@ -1115,6 +1269,31 @@
       "id": 3015,
       "Url": "https://i.imgur.com/dkAZk1A.jpg",
       "roomId": 302
+    },
+    {
+      "id": 3016,
+      "Url": "https://i.imgur.com/JvuTVCv.jpg",
+      "roomId": 303
+    },
+    {
+      "id": 3017,
+      "Url": "https://i.imgur.com/21ge5hO.jpg",
+      "roomId": 303
+    },
+    {
+      "id": 3018,
+      "Url": "https://i.imgur.com/XjG30BI.jpg",
+      "roomId": 303
+    },
+    {
+      "id": 3019,
+      "Url": "https://i.imgur.com/xhSW4Yb.jpg",
+      "roomId": 303
+    },
+    {
+      "id": 3020,
+      "Url": "https://i.imgur.com/pfVwmHb.jpg",
+      "roomId": 303
     },
     {
       "id": 4001,
@@ -1215,6 +1394,31 @@
       "id": 4020,
       "Url": "https://i.imgur.com/eNWDeG4.jpg",
       "roomId": 403
+    },
+    {
+      "id": 4021,
+      "Url": "https://i.imgur.com/Q1meLz5.jpg",
+      "roomId": 404
+    },
+    {
+      "id": 4022,
+      "Url": "https://i.imgur.com/TBWtHS9.jpg",
+      "roomId": 404
+    },
+    {
+      "id": 4023,
+      "Url": "https://i.imgur.com/BHFi1b6.jpg",
+      "roomId": 404
+    },
+    {
+      "id": 4024,
+      "Url": "https://i.imgur.com/eP0eCwv.jpg",
+      "roomId": 404
+    },
+    {
+      "id": 4025,
+      "Url": "https://i.imgur.com/jtrpXFn.jpg",
+      "roomId": 404
     },
     {
       "id": 5001,
