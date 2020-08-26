@@ -1642,7 +1642,5 @@
       "roomId": 802
     }
   ],
-  "checkout": [
-    {}
-  ]
+  "checkout": []
 }

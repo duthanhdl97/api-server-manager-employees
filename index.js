@@ -5,15 +5,17 @@ const jwt = require('jsonwebtoken');
 
 const server = jsonServer.create();
 const router = jsonServer.router('./db.json');
+const port = process.env.PORT || 8000;
 
 server.use(bodyParser.urlencoded({ extended: true }));
 server.use(bodyParser.json());
 server.use(jsonServer.defaults());
 
 const SECRET_KEY = '123456789';
+const expiresIn = '1h';
 
 function createToken(payload) {
-  return jwt.sign(payload, SECRET_KEY);
+  return jwt.sign(payload, SECRET_KEY, { expiresIn });
 }
 
 function isAuthenticated({ email, password }) {
@@ -81,6 +83,6 @@ server.post('/auth/login', (req, res) => {
 
 server.use(router);
 
-server.listen(8000, () => {
+server.listen(port, () => {
   console.log('Run Auth API Server');
 });
