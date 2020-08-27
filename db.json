@@ -5,56 +5,56 @@
       "title": "TP. Hồ Chí Minh",
       "imgUrl": "https://i.imgur.com/OfFgd9r.png",
       "path": "ho-chi-minh",
-      "num": 3507
+      "num": 6
     },
     {
       "id": 2,
       "title": "Vũng Tàu",
       "imgUrl": "https://i.imgur.com/X3piiPE.png",
       "path": "vung-tau",
-      "num": 795
+      "num": 3
     },
     {
       "id": 3,
       "title": "Đà Nẵng",
       "imgUrl": "https://i.imgur.com/xRs0RFD.png",
       "path": "da-nang",
-      "num": 1699
+      "num": 4
     },
     {
       "id": 4,
       "title": "Đà Lạt",
       "imgUrl": "https://i.imgur.com/8vCkfri.png",
       "path": "da-lat",
-      "num": 2155
+      "num": 5
     },
     {
       "id": 5,
       "title": "Hà Nội",
       "imgUrl": "https://i.imgur.com/HVNFMTr.png",
       "path": "ha-noi",
-      "num": 3315
+      "num": 7
     },
     {
       "id": 6,
       "title": "Nha Trang",
       "imgUrl": "https://i.imgur.com/aOZJyDW.png",
       "path": "nha-trang",
-      "num": 968
+      "num": 4
     },
     {
       "id": 7,
       "title": "Quảng Ninh",
       "imgUrl": "https://i.imgur.com/QrghHg2.png",
       "path": "quang-ninh",
-      "num": 367
+      "num": 3
     },
     {
       "id": 8,
       "title": "Hội An",
       "imgUrl": "https://i.imgur.com/H14EVXh.png",
       "path": "hoi-an",
-      "num": 474
+      "num": 3
     }
   ],
   "rooms": [
